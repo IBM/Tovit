@@ -1,0 +1,809 @@
+alright,Bot_Control_Approve_Response
+alright yes,Bot_Control_Approve_Response
+This is alright,Bot_Control_Approve_Response
+You bet,Bot_Control_Approve_Response
+I do,Bot_Control_Approve_Response
+indeed,Bot_Control_Approve_Response
+yes please,Bot_Control_Approve_Response
+yeah,Bot_Control_Approve_Response
+You read my mind,Bot_Control_Approve_Response
+Affirmative. That's what I'm looking for.,Bot_Control_Approve_Response
+All right,Bot_Control_Approve_Response
+Correct,Bot_Control_Approve_Response
+For sure!,Bot_Control_Approve_Response
+Got it,Bot_Control_Approve_Response
+Great,Bot_Control_Approve_Response
+I agree,Bot_Control_Approve_Response
+I like that,Bot_Control_Approve_Response
+"Yeah, that's it!",Bot_Control_Approve_Response
+Yes,Bot_Control_Approve_Response
+sure thing,Bot_Control_Approve_Response
+Very well. Let's do it.,Bot_Control_Approve_Response
+absolutely,Bot_Control_Approve_Response
+That's exactly what I want,Bot_Control_Approve_Response
+That is the proper response.,Bot_Control_Approve_Response
+That is what I need,Bot_Control_Approve_Response
+Indeed!,Bot_Control_Approve_Response
+That is right,Bot_Control_Approve_Response
+That is precisely what I was looking for,Bot_Control_Approve_Response
+Sweet,Bot_Control_Approve_Response
+Sure thing!,Bot_Control_Approve_Response
+sure,Bot_Control_Approve_Response
+Talk about something else,Bot_Control_Change_Subject
+Change topic,Bot_Control_Change_Subject
+Chat about something else,Bot_Control_Change_Subject
+Help me with this other question,Bot_Control_Change_Subject
+Let us talk about something else,Bot_Control_Change_Subject
+Let us change the topic,Bot_Control_Change_Subject
+Another thing,Bot_Control_Change_Subject
+I have one more question,Bot_Control_Change_Subject
+Here is another issue,Bot_Control_Change_Subject
+Discuss something else,Bot_Control_Change_Subject
+Can we talk about something else?,Bot_Control_Change_Subject
+A different matter,Bot_Control_Change_Subject
+I don't get it,Bot_Control_Clarification
+I need more information,Bot_Control_Clarification
+I didn't understand that properly,Bot_Control_Clarification
+I don't understand what you're saying,Bot_Control_Clarification
+I didn't quite understand what you said,Bot_Control_Clarification
+What are you talking about?,Bot_Control_Clarification
+"Let's try to say that again more clearly, shall we?",Bot_Control_Clarification
+What are you referring to?,Bot_Control_Clarification
+I didn't catch that,Bot_Control_Clarification
+What do you mean by that?,Bot_Control_Clarification
+What do you mean?,Bot_Control_Clarification
+What are you saying?,Bot_Control_Clarification
+Come again?,Bot_Control_Clarification
+I don't understand,Bot_Control_Clarification
+Can you say that again please?,Bot_Control_Clarification
+Explains,Bot_Control_Clarification
+I did not quite understand what you gave me,Bot_Control_Clarification
+I am still holding,Bot_Control_Confirm_Presence
+Is anybody here?,Bot_Control_Confirm_Presence
+Where'd you go?,Bot_Control_Confirm_Presence
+Is anybody home?,Bot_Control_Confirm_Presence
+You around?,Bot_Control_Confirm_Presence
+Did you go somewhere?,Bot_Control_Confirm_Presence
+Anyone there?,Bot_Control_Confirm_Presence
+Am I talking to someone?,Bot_Control_Confirm_Presence
+Are you still around?,Bot_Control_Confirm_Presence
+Are you still here with me?,Bot_Control_Confirm_Presence
+Are you leaving me?,Bot_Control_Confirm_Presence
+Are you there?,Bot_Control_Confirm_Presence
+Are you on?,Bot_Control_Confirm_Presence
+Speak to me if you are there.,Bot_Control_Confirm_Presence
+Have I lost you?,Bot_Control_Confirm_Presence
+Did you hear what I said?,Bot_Control_Confirm_Presence
+I change my mind.,Bot_Control_Ignore_Undo
+I did not mean that?,Bot_Control_Ignore_Undo
+Not yet,Bot_Control_Ignore_Undo
+"I didn't mean to do that actually, let's go back",Bot_Control_Ignore_Undo
+Ignore this,Bot_Control_Ignore_Undo
+Nothing,Bot_Control_Ignore_Undo
+It's not what I mean,Bot_Control_Ignore_Undo
+Wait! Let's back up few steps and do that again,Bot_Control_Ignore_Undo
+Let us redo that again!,Bot_Control_Ignore_Undo
+Never mind,Bot_Control_Ignore_Undo
+"Actually, I take that back",Bot_Control_Ignore_Undo
+Cancel,Bot_Control_Ignore_Undo
+Hold on! I think I want to do it differently.,Bot_Control_Ignore_Undo
+Never,Bot_Control_Ignore_Undo
+I disagree,Bot_Control_Reject_Response
+That sounds like the wrong response,Bot_Control_Reject_Response
+That was not my intent,Bot_Control_Reject_Response
+"That was wrong, try again",Bot_Control_Reject_Response
+Wrong response,Bot_Control_Reject_Response
+You did not understand what I asked,Bot_Control_Reject_Response
+You didn't understand me,Bot_Control_Reject_Response
+You're misunderstanding me,Bot_Control_Reject_Response
+Bad response,Bot_Control_Reject_Response
+You did not understand what I said,Bot_Control_Reject_Response
+I don't want that,Bot_Control_Reject_Response
+I don't need that,Bot_Control_Reject_Response
+I do not think it is the answer?,Bot_Control_Reject_Response
+Do not,Bot_Control_Reject_Response
+Not the right response,Bot_Control_Reject_Response
+That answer is incorrect,Bot_Control_Reject_Response
+No,Bot_Control_Reject_Response
+No I'm fine thanks,Bot_Control_Reject_Response
+It is not what I was looking for,Bot_Control_Reject_Response
+It is not what I want,Bot_Control_Reject_Response
+I wasn't looking for that,Bot_Control_Reject_Response
+That is not true,Bot_Control_Reject_Response
+Need a minute here,Bot_Control_Standby
+Out for a break,Bot_Control_Standby
+Wait,Bot_Control_Standby
+I want stop a moment,Bot_Control_Standby
+Hold on,Bot_Control_Standby
+Give me a second,Bot_Control_Standby
+I will be back,Bot_Control_Standby
+I would like to put you on hold,Bot_Control_Standby
+In a moment,Bot_Control_Standby
+Just hold on,Bot_Control_Standby
+Can you give me a moment?,Bot_Control_Standby
+Be back later,Bot_Control_Standby
+Back again soon,Bot_Control_Standby
+Just a sec,Bot_Control_Standby
+Keep holding,Bot_Control_Standby
+Let me see,Bot_Control_Standby
+Give me a moment,Bot_Control_Standby
+Give me a few minutes to get together,Bot_Control_Standby
+Be patient with me,Bot_Control_Standby
+Can you wait for me?,Bot_Control_Standby
+Let's go back to square one,Bot_Control_Start_Over
+Restart,Bot_Control_Start_Over
+Please start a new chat,Bot_Control_Start_Over
+Please reset,Bot_Control_Start_Over
+"Actually, let's start over",Bot_Control_Start_Over
+Back to the beginning,Bot_Control_Start_Over
+Back to the top,Bot_Control_Start_Over
+Begin over!,Bot_Control_Start_Over
+Can we please start over?,Bot_Control_Start_Over
+How can I start over?,Bot_Control_Start_Over
+I need to reset.,Bot_Control_Start_Over
+Let's pick this up from the top again.,Bot_Control_Start_Over
+I want start from the beginning,Bot_Control_Start_Over
+I would like to start all over,Bot_Control_Start_Over
+Let us reopen this again.,Bot_Control_Start_Over
+Please initiate from the beginning,Bot_Control_Start_Over
+One more time from the beginning,Bot_Control_Start_Over
+We need a do-over,Bot_Control_Start_Over
+We will need to begin again,Bot_Control_Start_Over
+Start over,Bot_Control_Start_Over
+I don t know what you need,Bot_Control_Unsure
+I don t know what you want,Bot_Control_Unsure
+"I have no idea, actually",Bot_Control_Unsure
+I m not certain I get what you re saying,Bot_Control_Unsure
+I m not sure what will make you happy,Bot_Control_Unsure
+I have no idea what you are looking for,Bot_Control_Unsure
+I haven't got a clue,Bot_Control_Unsure
+No idea,Bot_Control_Unsure
+No clue,Bot_Control_Unsure
+I m not yet convinced,Bot_Control_Unsure
+"To be honest, I m really not sure",Bot_Control_Unsure
+You got me,Bot_Control_Unsure
+i don't want a table anymore anymore,Cancel
+never mind,Cancel
+cancel the request,Cancel
+forget it,Cancel
+nevermind,Cancel
+cancel that,Cancel
+i changed my mind,Cancel
+cdc_facts,cdc_facts
+cdc_link,CDC_Info
+cdc_summary,cdc_summary
+corona virus news updates,cdc_summary
+covid news updates,cdc_summary
+cdc_traveler,cdc_traveler
+What is coronavirus ?,corona_info
+when will coronavirus end ?,corona_info
+Where did coronavirus start ?,corona_info
+when did coronavirus start ?,corona_info
+what are the medical conditions that are at higher risk to coronavirus?,corona_info
+How can I tell if I have the coronavirus?,covid-diagnosis
+Can you tell me whether I have covid-19 or not?,covid-diagnosis
+Does having a fever and a runny nose mean I have coronavirus?,covid-diagnosis
+I'm afraid I'm coming down with coronavirus. How can I tell if I am?,covid-diagnosis
+I have a fever. Does that mean I have coronavirus?,covid-diagnosis
+"I'm feeling sick, but I'm not sure whether I have the covid-19.",covid-diagnosis
+I'm afraid I have this virus. How can I tell?,covid-diagnosis
+How can I diagnose whether I have covid-19 or not?,covid-diagnosis
+I'm sick,covid-diagnosis
+I'm not feeling very well today,covid-diagnosis
+How can I tell if I am infected?,covid-diagnosis
+How do I know if I have covid-19?,covid-diagnosis
+Do i have coronavirus?,covid-diagnosis
+How can I tell whether I have the flu or the coronavirus?,covid-diagnosis
+How can I tell if I have a fever?,covid-fever-definition
+What temperature is a fever?,covid-fever-definition
+What do you mean fever?,covid-fever-definition
+How hot is a fever?,covid-fever-definition
+How high is does my temperature need to be for a fever?,covid-fever-definition
+How do flu symptoms differ from cold symptoms?,covid-flu-vs-common-cold
+How is a cold different from the flu?,covid-flu-vs-common-cold
+Flu vs cold,covid-flu-vs-common-cold
+Flu vs corona,covid-flu-vs-common-cold
+corona vs flu,covid-flu-vs-common-cold
+What's the difference between flu and coronavirus,covid-flu-vs-common-cold
+How do I keep other people from catching this?,covid-prevent-spread
+How can I protect my family and friends from covid-19 if I'm contagious,covid-prevent-spread
+What do I do to keep the coronavirus from spreading?,covid-prevent-spread
+How can we slow down the spread of corona virus?,covid-prevent-spread
+How do I help prevent coronavirus from spreading?,covid-prevent-spread
+should my kids go to school,covid-schools-open
+can i send my kids to school,covid-schools-open
+Can I go to university?,covid-schools-open
+Can I go to school?,covid-schools-open
+when will the school be open again?,covid-schools-open
+Should I go to university?,covid-schools-open
+Should I go to school?,covid-schools-open
+Are universities open?,covid-schools-open
+are schools open?,covid-schools-open
+Can my kids go to school today?,covid-schools-open
+should my kids go to schoolo,covid-schools-open
+when will the day care center be open again?,covid-schools-open
+Is the local kindergarten going to be opening soon,covid-schools-open
+are the schools going to open again soon,covid-schools-open
+When will the high school in my area be open again.,covid-schools-open
+Can my kids go back to school?,covid-schools-open
+I don't know what shortness of breath is,covid-shortness-of-breath-definition
+What kind of breathing problem is that?,covid-shortness-of-breath-definition
+What is shortness of breath,covid-shortness-of-breath-definition
+How do I know what shortness of breath is,covid-shortness-of-breath-definition
+What do you mean shortness of breath?,covid-shortness-of-breath-definition
+What if I'm sick?,covid-what-if-sick
+What do I do if I have been exposed to the virus?,covid-what-if-sick
+What do I do if I'm infected with covid-19?,covid-what-if-sick
+What if I think I have coronavirus?,covid-what-if-sick
+What should I do if I'm sick?,covid-what-if-sick
+Can I book an in person session,Customer_Care_Appointments
+can you make an appointment for me,Customer_Care_Appointments
+do you have availability next week,Customer_Care_Appointments
+are you available on tuesday,Customer_Care_Appointments
+can i book for tonight,Customer_Care_Appointments
+i'd like to make an appointment,Customer_Care_Appointments
+Make an appointment,Customer_Care_Appointments
+I would like to make an appointment to visit the nearest store to my location.,Customer_Care_Appointments
+What time can I meet the staff?,Customer_Care_Appointments
+meet in store,Customer_Care_Appointments
+I prefer a face to face visit,Customer_Care_Appointments
+i'd like to come in for an appointment,Customer_Care_Appointments
+Could I speak to someone in the store next tuesday?,Customer_Care_Appointments
+can i make an appointment,Customer_Care_Appointments
+I would like to discuss my situation face to face,Customer_Care_Appointments
+I want to talk in person with someone about my case,Customer_Care_Appointments
+When can I meet with one of your employees at your store?,Customer_Care_Appointments
+Store appointment,Customer_Care_Appointments
+Set up an appt,Customer_Care_Appointments
+Want to change my visit,Customer_Care_Appointments
+what time do you close on Sunday,Customer_Care_Store_Hours
+How early do you open?,Customer_Care_Store_Hours
+Does the store in the city center opens till 8pm on weekends?,Customer_Care_Store_Hours
+Can you tell me how late the stores are open till?,Customer_Care_Store_Hours
+At what hour can I swing by?,Customer_Care_Store_Hours
+What are the business hours of the store nearest to me?,Customer_Care_Store_Hours
+What are the hours of operation?,Customer_Care_Store_Hours
+how late y'all stay up till,Customer_Care_Store_Hours
+when can i visit your store,Customer_Care_Store_Hours
+What are the saturday opening times for the local store?,Customer_Care_Store_Hours
+What are ur opening hours?,Customer_Care_Store_Hours
+What are your hous?,Customer_Care_Store_Hours
+What time are you closing today?,Customer_Care_Store_Hours
+"Are you open on sundays, and if so what are the hours?",Customer_Care_Store_Hours
+store open now,Customer_Care_Store_Hours
+when do your stores open,Customer_Care_Store_Hours
+How long are you open?,Customer_Care_Store_Hours
+Are you closing early today,Customer_Care_Store_Hours
+What is the opening time for the washington store?,Customer_Care_Store_Hours
+store open hours?,Customer_Care_Store_Hours
+store open,Customer_Care_Store_Hours
+store hrs,Customer_Care_Store_Hours
+will you open on christmas,Customer_Care_Store_Hours
+Are the stores open early?,Customer_Care_Store_Hours
+Are you open during thanksgiving?,Customer_Care_Store_Hours
+Are you open on bank holidays?,Customer_Care_Store_Hours
+What time is your store open on saturday?,Customer_Care_Store_Hours
+What time do stores close?,Customer_Care_Store_Hours
+What time does the central manchester store shut on a saturday?,Customer_Care_Store_Hours
+What time do you close today,Customer_Care_Store_Hours
+Is the branch open now?,Customer_Care_Store_Hours
+Are you open on Sunday,Customer_Care_Store_Hours
+how late are you open,Customer_Care_Store_Hours
+how late are you open tonight,Customer_Care_Store_Hours
+are stores open on sunday,Customer_Care_Store_Hours
+store hours,Customer_Care_Store_Hours
+open hours store,Customer_Care_Store_Hours
+how late are you there,Customer_Care_Store_Hours
+what are your hours,Customer_Care_Store_Hours
+will you open for christmas,Customer_Care_Store_Hours
+will you be open Memorial day,Customer_Care_Store_Hours
+when do you close,Customer_Care_Store_Hours
+What time do you close,Customer_Care_Store_Hours
+Hours of operation,Customer_Care_Store_Hours
+What time do you open on Saturdays,Customer_Care_Store_Hours
+how early do you open on Saturdays,Customer_Care_Store_Hours
+Are you closed new Year's eve,Customer_Care_Store_Hours
+when does the store close,Customer_Care_Store_Hours
+Is delivery food safe to eat?,delivery_food
+Can I order food?,delivery_food
+is it safe to do food delivery ?,delivery_food
+I want to order food from outside,delivery_food
+How safe is delivery food?,delivery_food
+Can I order delivery food?,delivery_food
+It is okay to order food from outside?,delivery_food
+Should I bring my passport for the screening?,documents_screening
+Do I need to bring something with me for the screening?,documents_screening
+What documents are required for the test ?,documents_screening
+What documents are required for screening ?,documents_screening
+documents needed for testing?,documents_screening
+Which documents do I need to bring with me for the screening?,documents_screening
+Who to call for emregency,emergency
+What number should I call for emergency,emergency
+what numbers to call ?,emergency
+I need to call an ambulance,emergency
+What's the emergency number,emergency
+I need an ambulance,emergency
+I have an emergency,emergency
+Who can commute?,exemptions
+Which industries allow their employees to go the office,exemptions
+Which sectors can work in the offices,exemptions
+Who can leave the house,exemptions
+who can leave home?,exemptions
+who is allowed to go out,exemptions
+Who is allowed to leave the house?,exemptions
+Introduce your self,General_About_You
+Do you have a name?,General_About_You
+Do you know who you are?,General_About_You
+How can I configure you?,General_About_You
+How do you function?,General_About_You
+How old are you?,General_About_You
+Tell me about your life,General_About_You
+Why are you here?,General_About_You
+Who are you?,General_About_You
+Let us talk about you,General_About_You
+I want to set up the chat bot for my shop,General_About_You
+Describe your self,General_About_You
+Where were you born?,General_About_You
+Where are you from?,General_About_You
+What's your name?,General_About_You
+What should I know about you?,General_About_You
+What languages do you speak?,General_About_You
+Tell me something about yourself,General_About_You
+Can I use another language?,General_About_You
+About you,General_About_You
+How can you solve my problems?,General_Agent_Capabilities
+What are you able to deal with?,General_Agent_Capabilities
+What are my options that you can help with?,General_Agent_Capabilities
+Tell me about what kind of things you do?,General_Agent_Capabilities
+Is there anything you can help me with?,General_Agent_Capabilities
+I'd like to know what type of questions you can answer for me.,General_Agent_Capabilities
+I do not know what to ask,General_Agent_Capabilities
+How do I use you?,General_Agent_Capabilities
+How can you help me?,General_Agent_Capabilities
+How can I use you?,General_Agent_Capabilities
+"Hi, what do you do?",General_Agent_Capabilities
+Help now,General_Agent_Capabilities
+Do you have a list of things I can talk to you about?,General_Agent_Capabilities
+Can you tell me what services you are able to help me with?,General_Agent_Capabilities
+Can you please give me a list of the types of things you can help me with?,General_Agent_Capabilities
+Tell me something,General_Agent_Capabilities
+What are you used for?,General_Agent_Capabilities
+What are your skills?,General_Agent_Capabilities
+What can I ask you to do?,General_Agent_Capabilities
+What do you do?,General_Agent_Capabilities
+What are you good at?,General_Agent_Capabilities
+What is this 4?,General_Agent_Capabilities
+Where can I find the frequently asked questions?,General_Agent_Capabilities
+What kinds of things can you do?,General_Agent_Capabilities
+What features are in here?,General_Agent_Capabilities
+What else can you help me with?,General_Agent_Capabilities
+What do you handle?,General_Agent_Capabilities
+What are you capable of?,General_Agent_Capabilities
+What are you able to understand?,General_Agent_Capabilities
+What are my options?,General_Agent_Capabilities
+call the manager,General_Connect_to_Agent
+I want to speak to a human,General_Connect_to_Agent
+I want to talk to the manager,General_Connect_to_Agent
+"A real agent, please.",General_Connect_to_Agent
+Call agent,General_Connect_to_Agent
+talk to a human,General_Connect_to_Agent
+Agent help,General_Connect_to_Agent
+"Yes, take me to a real person",General_Connect_to_Agent
+Where is the closest agent?,General_Connect_to_Agent
+Send me to an agent,General_Connect_to_Agent
+I don't want to speak with a robot,General_Connect_to_Agent
+get me a person,General_Connect_to_Agent
+Can I connect to an agent?,General_Connect_to_Agent
+Can I speak to a human please?,General_Connect_to_Agent
+Can I speak to a live person?,General_Connect_to_Agent
+Can I speak to an advisor?,General_Connect_to_Agent
+Can I speak with somebody?,General_Connect_to_Agent
+Can I talk to someone?,General_Connect_to_Agent
+Can you assist me to connect to an agent?,General_Connect_to_Agent
+Can you connect me with a real person?,General_Connect_to_Agent
+Connect me to a live operator please.,General_Connect_to_Agent
+Contact person,General_Connect_to_Agent
+Could you please transfer me to your master?,General_Connect_to_Agent
+Customer service representative please.,General_Connect_to_Agent
+Do not want a robot?,General_Connect_to_Agent
+Hi can you transfer me,General_Connect_to_Agent
+How can I skip the recorded menu and go straight to a live person?,General_Connect_to_Agent
+I don't want to talk to a bot.,General_Connect_to_Agent
+I don't want to talk to you,General_Connect_to_Agent
+Is there anyone there I can actually talk to for real?,General_Connect_to_Agent
+I need to speak to a representative. How would I go about doing so?,General_Connect_to_Agent
+I want agent,General_Connect_to_Agent
+I want a manager,General_Connect_to_Agent
+I want an agent to help me,General_Connect_to_Agent
+I want to talk to a person,General_Connect_to_Agent
+I would like to speak to a human,General_Connect_to_Agent
+I would like to speak to someone,General_Connect_to_Agent
+Need help from human,General_Connect_to_Agent
+Operator please,General_Connect_to_Agent
+Please assist me to get to an agent,General_Connect_to_Agent
+Please connect me to a live agent,General_Connect_to_Agent
+Please let me talk to a human being.,General_Connect_to_Agent
+Pls connect,General_Connect_to_Agent
+Put me through to someone,General_Connect_to_Agent
+representative,General_Connect_to_Agent
+I want to speak to a person,General_Connect_to_Agent
+I dont want to talk to a computer,General_Connect_to_Agent
+Bye bye,General_Ending
+Ok goodbye,General_Ending
+See you later,General_Ending
+Have a nice day?,General_Ending
+See you,General_Ending
+I'm leaving now,General_Ending
+It was nice chatting with you,General_Ending
+Bye now,General_Ending
+Time to go,General_Ending
+That's everything,General_Ending
+That is all,General_Ending
+"Thanks very much, bye!",General_Ending
+Good. bye.,General_Ending
+Going now,General_Ending
+I have got to go,General_Ending
+I want to quit,General_Ending
+I'm done,General_Ending
+Im done,General_Ending
+Im good thank you,General_Ending
+I d like to stop doing this,General_Ending
+I am out of here,General_Ending
+I am leaving,General_Ending
+Hey bot go away,General_Ending
+Goodbye,General_Ending
+Go off,General_Ending
+Go away,General_Ending
+Get lost,General_Ending
+"Finished now, good bye",General_Ending
+Ending this session,General_Ending
+End trial,General_Ending
+Cya later,General_Ending
+"Thanks, bye!",General_Ending
+Thank you for your time,General_Ending
+Stop talking to me,General_Ending
+Stop doing this,General_Ending
+Shut up,General_Ending
+Catch you later,General_Ending
+Hey you,General_Greetings
+Looking good eve,General_Greetings
+How r u?,General_Greetings
+hi,General_Greetings
+How have you been?,General_Greetings
+Hi there,General_Greetings
+Greetings,General_Greetings
+Good morning,General_Greetings
+Good evening,General_Greetings
+Good day,General_Greetings
+hiya,General_Greetings
+yo,General_Greetings
+How are you today?,General_Greetings
+How are things going?,General_Greetings
+Ok take me back,General_Greetings
+Have you been well?,General_Greetings
+Hello Agent,General_Greetings
+Hello,General_Greetings
+Hello I am looking for some help here,General_Greetings
+Hey how are you doing,General_Greetings
+Hey there all,General_Greetings
+Hey there,General_Greetings
+Good to see you,General_Greetings
+Hi advisor,General_Greetings
+Hey twin,General_Greetings
+What's new?,General_Greetings
+What's up?,General_Greetings
+Who is this?,General_Greetings
+You there,General_Greetings
+How is it going?,General_Greetings
+Are you a human or a bot?,General_Human_or_Bot
+Am I talking to a person or am I talking to an AI?,General_Human_or_Bot
+Am I talking to a Bot?,General_Human_or_Bot
+Am I chatting with a human?,General_Human_or_Bot
+"Tell me, are you a human or no?",General_Human_or_Bot
+Is this a computer?,General_Human_or_Bot
+Am I talking to Watson?,General_Human_or_Bot
+How can you prove you are a human?,General_Human_or_Bot
+Are you real?,General_Human_or_Bot
+Are you human?,General_Human_or_Bot
+Are you a robot?,General_Human_or_Bot
+Are you even real?,General_Human_or_Bot
+What is your favorite joke?,General_Jokes
+One more joke,General_Jokes
+I'm bored,General_Jokes
+I want a joke,General_Jokes
+Are there jokes?,General_Jokes
+Do you have a joke?,General_Jokes
+I am getting bored,General_Jokes
+Do you like humor?,General_Jokes
+Do you like fun?,General_Jokes
+Another joke,General_Jokes
+Tell me something funny,General_Jokes
+Do you have humor?,General_Jokes
+Can you tell a joke?,General_Jokes
+Tell me a joke,General_Jokes
+Can you tell me a joke?,General_Jokes
+Surprise me with something hilarious,General_Jokes
+What do you do for fun?,General_Jokes
+Quit annoying me,General_Negative_Feedback
+You are on my nerves,General_Negative_Feedback
+Robots are boring,General_Negative_Feedback
+Hate you,General_Negative_Feedback
+Why are you so annoying?,General_Negative_Feedback
+You are very frustrating,General_Negative_Feedback
+Stupid,General_Negative_Feedback
+Everyone hates you,General_Negative_Feedback
+Do not like you?,General_Negative_Feedback
+You're too stupid,General_Negative_Feedback
+You're really irritating,General_Negative_Feedback
+You're really frustrating,General_Negative_Feedback
+You do not seem smart,General_Negative_Feedback
+Robots are stupid,General_Negative_Feedback
+Why are you stupid?,General_Negative_Feedback
+You are having delusions,General_Negative_Feedback
+I do not like you,General_Negative_Feedback
+It is annoying,General_Negative_Feedback
+I hate you,General_Negative_Feedback
+I hate this!,General_Negative_Feedback
+You are the best,General_Positive_Feedback
+You are great,General_Positive_Feedback
+This is so cool,General_Positive_Feedback
+You are wonderful,General_Positive_Feedback
+Brilliant!,General_Positive_Feedback
+Can't believe you are that good,General_Positive_Feedback
+How cool is this?,General_Positive_Feedback
+I like what you did there! :),General_Positive_Feedback
+You the man,General_Positive_Feedback
+You gave me exactly what I need!,General_Positive_Feedback
+This is great,General_Positive_Feedback
+You're a genius!,General_Positive_Feedback
+You've been so helpful :),General_Positive_Feedback
+Love your work,General_Positive_Feedback
+I'm looking forward to working with you again! :),General_Positive_Feedback
+Ok thank you,General_Positive_Feedback
+Thank you,General_Positive_Feedback
+This is good,General_Positive_Feedback
+You are awesome,General_Positive_Feedback
+How do I know if my card info is kept safe?,General_Security_Assurance
+Are you safe?,General_Security_Assurance
+Do you have protection against hacks?,General_Security_Assurance
+Customer info secured?,General_Security_Assurance
+Conversation secure?,General_Security_Assurance
+Can I be sure that my stored card details are held securely?,General_Security_Assurance
+How is my credit card info secured?,General_Security_Assurance
+What guards do you have in place to protect your customer's data?,General_Security_Assurance
+Secure conversation?,General_Security_Assurance
+Protection hacks?,General_Security_Assurance
+Precautions hackers?,General_Security_Assurance
+Is this conversation secure?,General_Security_Assurance
+Is this a trusted chat site?,General_Security_Assurance
+Why would I trust this chat?,General_Security_Assurance
+Will my conversation remain secured?,General_Security_Assurance
+Is this an official chat?,General_Security_Assurance
+Is there a reason to distrust this chat?,General_Security_Assurance
+Is my payment information secure?,General_Security_Assurance
+Is my card info secure?,General_Security_Assurance
+In what way can I tell if my plastic is safe?,General_Security_Assurance
+I'd like proof of a secure chat,General_Security_Assurance
+How safe is my data?,General_Security_Assurance
+How do I know this chat is not a scam?,General_Security_Assurance
+What makes this chat trustworthy?,General_Security_Assurance
+Are you safe on hackers?,General_Security_Assurance
+What safety measures are used to ensure that chat is secure?,General_Security_Assurance
+see ya,Goodbye
+so long,Goodbye
+ciao,Goodbye
+good bye,Goodbye
+bye,Goodbye
+arrivederci,Goodbye
+Should I wear a gloves in supermarket ?,grocery_questions
+Do I need to put gloves and mask in supermarket?,grocery_questions
+what are the measurements to take after going back home from outside?,grocery_questions
+How many can we be in supermarket ?,grocery_questions
+Should I wear a mask in supermarket ?,grocery_questions
+Should I wear a mask in grocery shops ?,grocery_questions
+Should I wear a glove in grocery shops?,grocery_questions
+Should I wear gloves in grocery shops?,grocery_questions
+Do I need to put gloves and mask in grocery shops?,grocery_questions
+Should I wear masks in grocery shops?,grocery_questions
+Should I wear masks in supermarkets?,grocery_questions
+How to do grocery shopping?,grocery_questions
+grocery shopping in dubai,grocery_questions
+help me,Help
+help,Help
+i need assistance,Help
+can you help,Help
+help me decide,Help
+what can i do,Help
+what can i say,Help
+can you assist me,Help
+Can I go to the pharmacy?,leaving_home
+Can I go to the supermarket?,leaving_home
+Can I go out?,leaving_home
+Can I leave home?,leaving_home
+what time should I come back home ?,leaving_home
+What time can I leave home,leaving_home
+When can I leave home,leaving_home
+I want to know about the lockdown,leaving_home
+When is the curfew?,leaving_home
+lock down and curfew?,leaving_home
+Can I go for grocery shopping,leaving_home
+Is it allowed to go to grocery?,leaving_home
+Can I go to the grocery?,leaving_home
+Is there a request that I need to fill so I can leave home?,leaving_home
+How to go out?,leaving_home
+What time can I leave the house,leaving_home
+Where can I go?,leaving_home
+When can I leave home in Abu Dhabi?,leaving_home
+When can I leave home in Dubai?,leaving_home
+How to leave home,leaving_home
+Which places am I allowed to go during corona?,leaving_home
+What time does the lockdown start?,leaving_home
+What time can I leave home?,leaving_home
+local_updates,local_updates
+how many cases in france ?,nbr_cases
+How many cases ?,nbr_cases
+live cases,nbr_cases
+Number of cases ?,nbr_cases
+number of case in France,nbr_cases
+Is there anything open?,open_shops
+Are there any open places,open_shops
+Which markets are open?,open_shops
+Which shops are open?,open_shops
+Are market open?,open_shops
+Are shops open?,open_shops
+Are there any open shops?,open_shops
+is the bank open?,open_shops
+Is everything closed?,open_shops
+Which places are open?,open_shops
+Vet clinics,pet_clinic
+Can I take my dog the vet,pet_clinic
+Can I take my cat to the vet?,pet_clinic
+What if I need to take my pet to the vet?,pet_clinic
+Are vet clinics closed?,pet_clinic
+Are vet clinics open?,pet_clinic
+Should I abandon my pet?,pets_at_home
+Can I get corona from my pet?,pets_at_home
+Should I be worried from my pet?,pets_at_home
+is it ok to have pets at home ?,pets_at_home
+Should I be worried from my cat?,pets_at_home
+Should I be worried from my dog?,pets_at_home
+Should I be scared from pets?,pets_at_home
+Is it fine to have a cat in the house?,pets_at_home
+Is it fine to have a dog in the house?,pets_at_home
+Can I get the virus from my pet,pets_at_home
+Is the tram open?,public_transportation
+Public Transportation,public_transportation
+Can I take the taxi?,public_transportation
+Can I take the bus?,public_transportation
+Can I take the tram?,public_transportation
+Which ways of transportations are available?,public_transportation
+Can I take the metro?,public_transportation
+What about public transportation?,public_transportation
+Are public buses available?,public_transportation
+Is the metro open?,public_transportation
+Are there any public transportations?,public_transportation
+what are the main safety guidelines,safety_guidelines
+Where should I wear masks ?,safety_guidelines
+Where should I wear masks and gloves ?,safety_guidelines
+how to properly get rid of masks and gloves after use?,safety_guidelines
+Where should I wear gloves?,safety_guidelines
+How to wear masks / gloves ?,safety_guidelines
+what safety guidelines should I follow?,safety_guidelines
+How to protect myself from Corona?,safety_guidelines
+How to protect myself from Covid19?,safety_guidelines
+How can I protect myself,safety_guidelines
+where can I go get tested?,screening_locations
+where can I do screening,screening_locations
+screening information,screening_locations
+Where can I do the Corona test,screening_locations
+Where can I find testing centers,screening_locations
+Where to take test,screening_locations
+where to take a test,screening_locations
+where can i get tested,screening_locations
+where's the nearest emergency center ?,screening_locations
+screening centers,screening_locations
+testing centers,screening_locations
+testing locations,screening_locations
+screening locations in Dubai,screening_locations
+screening centers in Abu Dhabi,screening_locations
+testing location in Abu Dhabi,screening_locations
+Drive Through in Abu Dhabi,screening_locations
+local_screening_info,screening_locations
+"I'm not feeling well, I have a cough",self_screening
+Do I have corona?,self_screening
+Do I have Covid19?,self_screening
+assess myself,self_screening
+How to know if I need to take the test?,self_screening
+Do I need to take the corona test?,self_screening
+I'm feeling cold,self_screening
+I have a fever what should i do ?,self_screening
+check my health,self_screening
+I'm very tired,self_screening
+feeling tired,self_screening
+I'm feeling sick,self_screening
+I have the chills,self_screening
+I have a cough,self_screening
+Not feeling well,self_screening
+assessement,self_screening
+I haves aches,self_screening
+how do i know if i have symptoms ?,self_screening
+what should i do if have symptoms ?,self_screening
+My throat hurts,self_screening
+I'm worried if have corona,self_screening
+What is the maximum number of people inside a car,take_my_car
+is driving allowed?,take_my_car
+how many person can be in the same car?,take_my_car
+my car,take_my_car
+can I take my car?,take_my_car
+are cars allowed?,take_my_car
+can I drive?,take_my_car
+Where is?,Test_Center_Contact_Info
+which cross streets are you on,Test_Center_Contact_Info
+give me directions,Test_Center_Contact_Info
+What is the nearest test center?,Test_Center_Contact_Info
+What is the test center near my zip code?,Test_Center_Contact_Info
+what is the phone number,Test_Center_Contact_Info
+how do I cantact my local test center?,Test_Center_Contact_Info
+Where is your test center?,Test_Center_Contact_Info
+What is the closest center to my address?,Test_Center_Contact_Info
+I'd like to go to a testing center,Test_Center_Contact_Info
+I want to know about a test center,Test_Center_Contact_Info
+how do I call the local test center,Test_Center_Contact_Info
+what is the local phone number,Test_Center_Contact_Info
+what is the number,Test_Center_Contact_Info
+what's your phone number,Test_Center_Contact_Info
+I need help with find a test center,Test_Center_Contact_Info
+Find a test center,Test_Center_Contact_Info
+location please,Test_Center_Contact_Info
+Looking for a location,Test_Center_Contact_Info
+Screening price,test_cost
+price of corona test,test_cost
+cost of the test,test_cost
+How much does the test cost?,test_cost
+What is the price of a test,test_cost
+How much does the screening cost?,test_cost
+How to take the test,test_process
+How is the screening?,test_process
+what happens during testing?,test_process
+what happens during the test?,test_process
+How to take test,test_process
+test process,test_process
+How to do a screening test for corona,test_process
+How to do a corona test,test_process
+What is the process of the Corona test,test_process
+How to go for screening?,test_process
+Test Center did not get back to me regarding my test results,test_results
+Where can i get my screening results ?,test_results
+test results,test_results
+how to get my test results ?,test_results
+What about test results?,test_results
+Where can I see my test results,test_results
+When will I get my test results,test_results
+How long does it take to get my test results,test_results
+I still don't have my test results,test_results
+I still don't have my screening results,test_results
+thx,Thanks
+i appreciate it,Thanks
+thank you very much,Thanks
+that's nice of you,Thanks
+many thanks,Thanks
+much appreciated,Thanks
+thank you,Thanks
+thanks,Thanks
+Is it possible to travel?,Travel_Restrictions
+When can I travel?,Travel_Restrictions
+Is the airport open?,Travel_Restrictions
+Do I need a doctor's note to travel?,Travel_Restrictions
+Are there any travel restrictions in place yet?,Travel_Restrictions
+Can I travel?,Travel_Restrictions
+Can I leave the country?,Travel_Restrictions
+when airports will open again ?,Travel_Restrictions
+do i need to stay home,Travel_Restrictions
+Is it safe to fly to Seattle?,Travel_Restrictions
+testing travelers?,Travel_Restrictions
+What if I urgently need to take a flight?,Travel_Restrictions
+Should I cancel my flight to Denver?,Travel_Restrictions
+I just travelled. What do I do?,Travel_Restrictions
+tx_count,tx_count
+tx_test,tx_test
+who_video,who_video

@@ -1,0 +1,7226 @@
+{
+  "intents": [
+    {
+      "intent": "take_my_car",
+      "examples": [
+        {
+          "text": "my car"
+        },
+        {
+          "text": "is driving allowed?"
+        },
+        {
+          "text": "can I take my car?"
+        },
+        {
+          "text": "are cars allowed?"
+        },
+        {
+          "text": "can I drive?"
+        },
+        {
+          "text": "What is the maximum number of people inside a car"
+        },
+        {
+          "text": "how many person can be in the same car?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bot_Control_Approve_Response",
+      "examples": [
+        {
+          "text": "That is precisely what I was looking for"
+        },
+        {
+          "text": "I do"
+        },
+        {
+          "text": "You bet"
+        },
+        {
+          "text": "This is alright"
+        },
+        {
+          "text": "alright yes"
+        },
+        {
+          "text": "alright"
+        },
+        {
+          "text": "sure"
+        },
+        {
+          "text": "Sure thing!"
+        },
+        {
+          "text": "That is the proper response."
+        },
+        {
+          "text": "Indeed!"
+        },
+        {
+          "text": "That is right"
+        },
+        {
+          "text": "Sweet"
+        },
+        {
+          "text": "That is what I need"
+        },
+        {
+          "text": "That's exactly what I want"
+        },
+        {
+          "text": "absolutely"
+        },
+        {
+          "text": "Very well. Let's do it."
+        },
+        {
+          "text": "sure thing"
+        },
+        {
+          "text": "Yes"
+        },
+        {
+          "text": "Yeah, that's it!"
+        },
+        {
+          "text": "I like that"
+        },
+        {
+          "text": "I agree"
+        },
+        {
+          "text": "Great"
+        },
+        {
+          "text": "Got it"
+        },
+        {
+          "text": "For sure!"
+        },
+        {
+          "text": "Correct"
+        },
+        {
+          "text": "All right"
+        },
+        {
+          "text": "Affirmative. That's what I'm looking for."
+        },
+        {
+          "text": "You read my mind"
+        },
+        {
+          "text": "yeah"
+        },
+        {
+          "text": "yes please"
+        },
+        {
+          "text": "indeed"
+        }
+      ],
+      "description": "Acknowledge that the response satisfies a question."
+    },
+    {
+      "intent": "test_results",
+      "examples": [
+        {
+          "text": "Test Center did not get back to me regarding my test results"
+        },
+        {
+          "text": "test results"
+        },
+        {
+          "text": "Where can i get my screening results ?"
+        },
+        {
+          "text": "What about test results?"
+        },
+        {
+          "text": "Where can I see my test results"
+        },
+        {
+          "text": "When will I get my test results"
+        },
+        {
+          "text": "How long does it take to get my test results"
+        },
+        {
+          "text": "I still don't have my test results"
+        },
+        {
+          "text": "I still don't have my screening results"
+        },
+        {
+          "text": "how to get my test results ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tx_test",
+      "examples": [
+        {
+          "text": "tx_test"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "self_screening",
+      "examples": [
+        {
+          "text": "Not feeling well"
+        },
+        {
+          "text": "I have the chills"
+        },
+        {
+          "text": "I'm feeling sick"
+        },
+        {
+          "text": "I'm feeling cold"
+        },
+        {
+          "text": "Do I need to take the corona test?"
+        },
+        {
+          "text": "How to know if I need to take the test?"
+        },
+        {
+          "text": "I'm worried if have corona"
+        },
+        {
+          "text": "what should i do if have symptoms ?"
+        },
+        {
+          "text": "how do i know if i have symptoms ?"
+        },
+        {
+          "text": "I have a fever what should i do ?"
+        },
+        {
+          "text": "I haves aches"
+        },
+        {
+          "text": "check my health"
+        },
+        {
+          "text": "assess myself"
+        },
+        {
+          "text": "Do I have Covid19?"
+        },
+        {
+          "text": "Do I have corona?"
+        },
+        {
+          "text": "I'm not feeling well, I have a cough"
+        },
+        {
+          "text": "My throat hurts"
+        },
+        {
+          "text": "I have a cough"
+        },
+        {
+          "text": "I'm very tired"
+        },
+        {
+          "text": "feeling tired"
+        },
+        {
+          "text": "assessement"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "test_cost",
+      "examples": [
+        {
+          "text": "How much does the test cost?"
+        },
+        {
+          "text": "Screening price"
+        },
+        {
+          "text": "What is the price of a test"
+        },
+        {
+          "text": "How much does the screening cost?"
+        },
+        {
+          "text": "price of corona test"
+        },
+        {
+          "text": "cost of the test"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tx_count",
+      "examples": [
+        {
+          "text": "tx_count"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "covid-schools-open",
+      "examples": [
+        {
+          "text": "should my kids go to school"
+        },
+        {
+          "text": "Can I go to university?"
+        },
+        {
+          "text": "Can I go to school?"
+        },
+        {
+          "text": "when will the school be open again?"
+        },
+        {
+          "text": "Should I go to university?"
+        },
+        {
+          "text": "Should I go to school?"
+        },
+        {
+          "text": "Are universities open?"
+        },
+        {
+          "text": "are schools open?"
+        },
+        {
+          "text": "Can my kids go to school today?"
+        },
+        {
+          "text": "should my kids go to schoolo"
+        },
+        {
+          "text": "can i send my kids to school"
+        },
+        {
+          "text": "Can my kids go back to school?"
+        },
+        {
+          "text": "When will the high school in my area be open again."
+        },
+        {
+          "text": "are the schools going to open again soon"
+        },
+        {
+          "text": "Is the local kindergarten going to be opening soon"
+        },
+        {
+          "text": "when will the day care center be open again?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Cancel",
+      "examples": [
+        {
+          "text": "nevermind"
+        },
+        {
+          "text": "never mind"
+        },
+        {
+          "text": "cancel that"
+        },
+        {
+          "text": "i changed my mind"
+        },
+        {
+          "text": "i don't want a table anymore anymore"
+        },
+        {
+          "text": "cancel the request"
+        },
+        {
+          "text": "forget it"
+        }
+      ],
+      "description": "Cancel the current request"
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Are you a robot?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "open_shops",
+      "examples": [
+        {
+          "text": "Is everything closed?"
+        },
+        {
+          "text": "Are shops open?"
+        },
+        {
+          "text": "Are market open?"
+        },
+        {
+          "text": "Which shops are open?"
+        },
+        {
+          "text": "Which markets are open?"
+        },
+        {
+          "text": "Are there any open shops?"
+        },
+        {
+          "text": "Are there any open places"
+        },
+        {
+          "text": "Which places are open?"
+        },
+        {
+          "text": "Is there anything open?"
+        },
+        {
+          "text": "is the bank open?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bot_Control_Confirm_Presence",
+      "examples": [
+        {
+          "text": "Anyone there?"
+        },
+        {
+          "text": "Are you leaving me?"
+        },
+        {
+          "text": "Are you there?"
+        },
+        {
+          "text": "Are you on?"
+        },
+        {
+          "text": "Speak to me if you are there."
+        },
+        {
+          "text": "Have I lost you?"
+        },
+        {
+          "text": "Did you hear what I said?"
+        },
+        {
+          "text": "Is anybody here?"
+        },
+        {
+          "text": "Where'd you go?"
+        },
+        {
+          "text": "Is anybody home?"
+        },
+        {
+          "text": "You around?"
+        },
+        {
+          "text": "Did you go somewhere?"
+        },
+        {
+          "text": "I am still holding"
+        },
+        {
+          "text": "Are you still here with me?"
+        },
+        {
+          "text": "Am I talking to someone?"
+        },
+        {
+          "text": "Are you still around?"
+        }
+      ],
+      "description": "Ask the bot to indicate that it is available."
+    },
+    {
+      "intent": "Goodbye",
+      "examples": [
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "arrivederci"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "so long"
+        }
+      ],
+      "description": "Good byes"
+    },
+    {
+      "intent": "nbr_cases",
+      "examples": [
+        {
+          "text": "how many cases in france ?"
+        },
+        {
+          "text": "Number of cases ?"
+        },
+        {
+          "text": "live cases"
+        },
+        {
+          "text": "How many cases ?"
+        },
+        {
+          "text": "number of case in France"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bot_Control_Reject_Response",
+      "examples": [
+        {
+          "text": "It is not what I was looking for"
+        },
+        {
+          "text": "I wasn't looking for that"
+        },
+        {
+          "text": "It is not what I want"
+        },
+        {
+          "text": "No I'm fine thanks"
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "Not the right response"
+        },
+        {
+          "text": "That answer is incorrect"
+        },
+        {
+          "text": "That is not true"
+        },
+        {
+          "text": "That sounds like the wrong response"
+        },
+        {
+          "text": "That was not my intent"
+        },
+        {
+          "text": "That was wrong, try again"
+        },
+        {
+          "text": "Wrong response"
+        },
+        {
+          "text": "You did not understand what I asked"
+        },
+        {
+          "text": "You didn't understand me"
+        },
+        {
+          "text": "You're misunderstanding me"
+        },
+        {
+          "text": "Bad response"
+        },
+        {
+          "text": "I disagree"
+        },
+        {
+          "text": "You did not understand what I said"
+        },
+        {
+          "text": "Do not"
+        },
+        {
+          "text": "I do not think it is the answer?"
+        },
+        {
+          "text": "I don't need that"
+        },
+        {
+          "text": "I don't want that"
+        }
+      ],
+      "description": "Indicate the bot's response does not address a question."
+    },
+    {
+      "intent": "cdc_traveler",
+      "examples": [
+        {
+          "text": "cdc_traveler"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bot_Control_Ignore_Undo",
+      "examples": [
+        {
+          "text": "Ignore this"
+        },
+        {
+          "text": "I didn't mean to do that actually, let's go back"
+        },
+        {
+          "text": "I did not mean that?"
+        },
+        {
+          "text": "Not yet"
+        },
+        {
+          "text": "Nothing"
+        },
+        {
+          "text": "It's not what I mean"
+        },
+        {
+          "text": "Wait! Let's back up few steps and do that again"
+        },
+        {
+          "text": "Never"
+        },
+        {
+          "text": "I change my mind."
+        },
+        {
+          "text": "Hold on! I think I want to do it differently."
+        },
+        {
+          "text": "Cancel"
+        },
+        {
+          "text": "Actually, I take that back"
+        },
+        {
+          "text": "Let us redo that again!"
+        },
+        {
+          "text": "Never mind"
+        }
+      ],
+      "description": "Ask the bot to take one step back."
+    },
+    {
+      "intent": "Customer_Care_Appointments",
+      "examples": [
+        {
+          "text": "i'd like to make an appointment"
+        },
+        {
+          "text": "I want to talk in person with someone about my case"
+        },
+        {
+          "text": "I would like to discuss my situation face to face"
+        },
+        {
+          "text": "When can I meet with one of your employees at your store?"
+        },
+        {
+          "text": "Store appointment"
+        },
+        {
+          "text": "Set up an appt"
+        },
+        {
+          "text": "Want to change my visit"
+        },
+        {
+          "text": "Can I book an in person session"
+        },
+        {
+          "text": "are you available on tuesday"
+        },
+        {
+          "text": "can i book for tonight"
+        },
+        {
+          "text": "do you have availability next week"
+        },
+        {
+          "text": "can you make an appointment for me"
+        },
+        {
+          "text": "can i make an appointment"
+        },
+        {
+          "text": "Could I speak to someone in the store next tuesday?"
+        },
+        {
+          "text": "i'd like to come in for an appointment"
+        },
+        {
+          "text": "Make an appointment"
+        },
+        {
+          "text": "I prefer a face to face visit"
+        },
+        {
+          "text": "meet in store"
+        },
+        {
+          "text": "What time can I meet the staff?"
+        },
+        {
+          "text": "I would like to make an appointment to visit the nearest store to my location."
+        }
+      ],
+      "description": "Schedule or manage an in-store appointment."
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "much appreciated"
+        },
+        {
+          "text": "many thanks"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "that's nice of you"
+        },
+        {
+          "text": "thank you very much"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "i appreciate it"
+        }
+      ],
+      "description": "Thanks"
+    },
+    {
+      "intent": "Test_Center_Contact_Info",
+      "examples": [
+        {
+          "text": "I need help with find a test center"
+        },
+        {
+          "text": "Where is your test center?"
+        },
+        {
+          "text": "I'd like to go to a testing center"
+        },
+        {
+          "text": "What is the closest center to my address?"
+        },
+        {
+          "text": "What is the nearest test center?"
+        },
+        {
+          "text": "how do I cantact my local test center?"
+        },
+        {
+          "text": "I want to know about a test center"
+        },
+        {
+          "text": "what is the phone number"
+        },
+        {
+          "text": "give me directions"
+        },
+        {
+          "text": "which cross streets are you on"
+        },
+        {
+          "text": "Where is?"
+        },
+        {
+          "text": "Looking for a location"
+        },
+        {
+          "text": "location please"
+        },
+        {
+          "text": "Find a test center"
+        },
+        {
+          "text": "What is the test center near my zip code?"
+        },
+        {
+          "text": "what's your phone number"
+        },
+        {
+          "text": "what is the number"
+        },
+        {
+          "text": "what is the local phone number"
+        },
+        {
+          "text": "how do I call the local test center"
+        }
+      ],
+      "description": "Locate a physical test center or an address."
+    },
+    {
+      "intent": "cdc_facts",
+      "examples": [
+        {
+          "text": "cdc_facts"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Travel_Restrictions",
+      "examples": [
+        {
+          "text": "Can I travel?"
+        },
+        {
+          "text": "Are there any travel restrictions in place yet?"
+        },
+        {
+          "text": "Is it possible to travel?"
+        },
+        {
+          "text": "When can I travel?"
+        },
+        {
+          "text": "Can I leave the country?"
+        },
+        {
+          "text": "when airports will open again ?"
+        },
+        {
+          "text": "do i need to stay home"
+        },
+        {
+          "text": "Is it safe to fly to Seattle?"
+        },
+        {
+          "text": "Do I need a doctor's note to travel?"
+        },
+        {
+          "text": "Is the airport open?"
+        },
+        {
+          "text": "testing travelers?"
+        },
+        {
+          "text": "What if I urgently need to take a flight?"
+        },
+        {
+          "text": "I just travelled. What do I do?"
+        },
+        {
+          "text": "Should I cancel my flight to Denver?"
+        }
+      ]
+    },
+    {
+      "intent": "covid-fever-definition",
+      "examples": [
+        {
+          "text": "How high is does my temperature need to be for a fever?"
+        },
+        {
+          "text": "How can I tell if I have a fever?"
+        },
+        {
+          "text": "How hot is a fever?"
+        },
+        {
+          "text": "What do you mean fever?"
+        },
+        {
+          "text": "What temperature is a fever?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Hate you"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "What is your favorite joke?"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Tell me something funny"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "delivery_food",
+      "examples": [
+        {
+          "text": "is it safe to do food delivery ?"
+        },
+        {
+          "text": "Is delivery food safe to eat?"
+        },
+        {
+          "text": "It is okay to order food from outside?"
+        },
+        {
+          "text": "Can I order food?"
+        },
+        {
+          "text": "I want to order food from outside"
+        },
+        {
+          "text": "How safe is delivery food?"
+        },
+        {
+          "text": "Can I order delivery food?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "who_video",
+      "examples": [
+        {
+          "text": "who_video"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cdc_summary",
+      "examples": [
+        {
+          "text": "covid news updates"
+        },
+        {
+          "text": "cdc_summary"
+        },
+        {
+          "text": "corona virus news updates"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bot_Control_Start_Over",
+      "examples": [
+        {
+          "text": "Let us reopen this again."
+        },
+        {
+          "text": "I would like to start all over"
+        },
+        {
+          "text": "I want start from the beginning"
+        },
+        {
+          "text": "Begin over!"
+        },
+        {
+          "text": "Back to the top"
+        },
+        {
+          "text": "Back to the beginning"
+        },
+        {
+          "text": "We will need to begin again"
+        },
+        {
+          "text": "Actually, let's start over"
+        },
+        {
+          "text": "Please reset"
+        },
+        {
+          "text": "Please start a new chat"
+        },
+        {
+          "text": "Restart"
+        },
+        {
+          "text": "Let's pick this up from the top again."
+        },
+        {
+          "text": "I need to reset."
+        },
+        {
+          "text": "How can I start over?"
+        },
+        {
+          "text": "Can we please start over?"
+        },
+        {
+          "text": "Start over"
+        },
+        {
+          "text": "We need a do-over"
+        },
+        {
+          "text": "One more time from the beginning"
+        },
+        {
+          "text": "Please initiate from the beginning"
+        },
+        {
+          "text": "Let's go back to square one"
+        }
+      ],
+      "description": "Restart bot or current flow."
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "I'd like proof of a secure chat"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "Are you safe on hackers?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "Are you safe?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    },
+    {
+      "intent": "screening_locations",
+      "examples": [
+        {
+          "text": "testing centers"
+        },
+        {
+          "text": "where can I go get tested?"
+        },
+        {
+          "text": "local_screening_info"
+        },
+        {
+          "text": "where can I do screening"
+        },
+        {
+          "text": "screening information"
+        },
+        {
+          "text": "Where can I do the Corona test"
+        },
+        {
+          "text": "Where can I find testing centers"
+        },
+        {
+          "text": "Where to take test"
+        },
+        {
+          "text": "where to take a test"
+        },
+        {
+          "text": "where can i get tested"
+        },
+        {
+          "text": "where's the nearest emergency center ?"
+        },
+        {
+          "text": "screening centers"
+        },
+        {
+          "text": "testing locations"
+        },
+        {
+          "text": "screening locations in Dubai"
+        },
+        {
+          "text": "screening centers in Abu Dhabi"
+        },
+        {
+          "text": "testing location in Abu Dhabi"
+        },
+        {
+          "text": "Drive Through in Abu Dhabi"
+        }
+      ],
+      "description": "Screening of COVID-19 related questions"
+    },
+    {
+      "intent": "local_updates",
+      "examples": [
+        {
+          "text": "local_updates"
+        }
+      ],
+      "description": "Get COVID news updates that are focused on your local region"
+    },
+    {
+      "intent": "covid-diagnosis",
+      "examples": [
+        {
+          "text": "Do i have coronavirus?"
+        },
+        {
+          "text": "How can I tell whether I have the flu or the coronavirus?"
+        },
+        {
+          "text": "How do I know if I have covid-19?"
+        },
+        {
+          "text": "How can I tell if I am infected?"
+        },
+        {
+          "text": "I'm not feeling very well today"
+        },
+        {
+          "text": "I'm sick"
+        },
+        {
+          "text": "How can I diagnose whether I have covid-19 or not?"
+        },
+        {
+          "text": "I'm afraid I have this virus. How can I tell?"
+        },
+        {
+          "text": "I'm feeling sick, but I'm not sure whether I have the covid-19."
+        },
+        {
+          "text": "I have a fever. Does that mean I have coronavirus?"
+        },
+        {
+          "text": "Does having a fever and a runny nose mean I have coronavirus?"
+        },
+        {
+          "text": "Can you tell me whether I have covid-19 or not?"
+        },
+        {
+          "text": "How can I tell if I have the coronavirus?"
+        },
+        {
+          "text": "I'm afraid I'm coming down with coronavirus. How can I tell if I am?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bot_Control_Standby",
+      "examples": [
+        {
+          "text": "Be back later"
+        },
+        {
+          "text": "Back again soon"
+        },
+        {
+          "text": "Need a minute here"
+        },
+        {
+          "text": "Let me see"
+        },
+        {
+          "text": "Keep holding"
+        },
+        {
+          "text": "Just a sec"
+        },
+        {
+          "text": "Wait"
+        },
+        {
+          "text": "I want stop a moment"
+        },
+        {
+          "text": "Give me a second"
+        },
+        {
+          "text": "Hold on"
+        },
+        {
+          "text": "I will be back"
+        },
+        {
+          "text": "I would like to put you on hold"
+        },
+        {
+          "text": "In a moment"
+        },
+        {
+          "text": "Just hold on"
+        },
+        {
+          "text": "Be patient with me"
+        },
+        {
+          "text": "Out for a break"
+        },
+        {
+          "text": "Can you give me a moment?"
+        },
+        {
+          "text": "Can you wait for me?"
+        },
+        {
+          "text": "Give me a few minutes to get together"
+        },
+        {
+          "text": "Give me a moment"
+        }
+      ],
+      "description": "Indicate a delay in providing input to the bot."
+    },
+    {
+      "intent": "documents_screening",
+      "examples": [
+        {
+          "text": "Should I bring my passport for the screening?"
+        },
+        {
+          "text": "Do I need to bring something with me for the screening?"
+        },
+        {
+          "text": "What documents are required for the test ?"
+        },
+        {
+          "text": "Which documents do I need to bring with me for the screening?"
+        },
+        {
+          "text": "What documents are required for screening ?"
+        },
+        {
+          "text": "documents needed for testing?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "This is great"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "covid-prevent-spread",
+      "examples": [
+        {
+          "text": "How do I keep other people from catching this?"
+        },
+        {
+          "text": "How can I protect my family and friends from covid-19 if I'm contagious"
+        },
+        {
+          "text": "What do I do to keep the coronavirus from spreading?"
+        },
+        {
+          "text": "How do I help prevent coronavirus from spreading?"
+        },
+        {
+          "text": "How can we slow down the spread of corona virus?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "corona_info",
+      "examples": [
+        {
+          "text": "when will coronavirus end ?"
+        },
+        {
+          "text": "What is coronavirus ?"
+        },
+        {
+          "text": "what are the medical conditions that are at higher risk to coronavirus?"
+        },
+        {
+          "text": "when did coronavirus start ?"
+        },
+        {
+          "text": "Where did coronavirus start ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "covid-shortness-of-breath-definition",
+      "examples": [
+        {
+          "text": "How do I know what shortness of breath is"
+        },
+        {
+          "text": "What kind of breathing problem is that?"
+        },
+        {
+          "text": "I don't know what shortness of breath is"
+        },
+        {
+          "text": "What do you mean shortness of breath?"
+        },
+        {
+          "text": "What is shortness of breath"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "test_process",
+      "examples": [
+        {
+          "text": "What is the process of the Corona test"
+        },
+        {
+          "text": "How to do a corona test"
+        },
+        {
+          "text": "How to go for screening?"
+        },
+        {
+          "text": "test process"
+        },
+        {
+          "text": "How to take test"
+        },
+        {
+          "text": "what happens during the test?"
+        },
+        {
+          "text": "what happens during testing?"
+        },
+        {
+          "text": "How is the screening?"
+        },
+        {
+          "text": "How to take the test"
+        },
+        {
+          "text": "How to do a screening test for corona"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "grocery_questions",
+      "examples": [
+        {
+          "text": "grocery shopping in dubai"
+        },
+        {
+          "text": "How to do grocery shopping?"
+        },
+        {
+          "text": "Should I wear masks in supermarkets?"
+        },
+        {
+          "text": "Should I wear a glove in grocery shops?"
+        },
+        {
+          "text": "Should I wear a mask in grocery shops ?"
+        },
+        {
+          "text": "Should I wear a mask in supermarket ?"
+        },
+        {
+          "text": "How many can we be in supermarket ?"
+        },
+        {
+          "text": "what are the measurements to take after going back home from outside?"
+        },
+        {
+          "text": "Do I need to put gloves and mask in supermarket?"
+        },
+        {
+          "text": "Should I wear a gloves in supermarket ?"
+        },
+        {
+          "text": "Should I wear masks in grocery shops?"
+        },
+        {
+          "text": "Do I need to put gloves and mask in grocery shops?"
+        },
+        {
+          "text": "Should I wear gloves in grocery shops?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "emergency",
+      "examples": [
+        {
+          "text": "I have an emergency"
+        },
+        {
+          "text": "I need an ambulance"
+        },
+        {
+          "text": "What's the emergency number"
+        },
+        {
+          "text": "I need to call an ambulance"
+        },
+        {
+          "text": "what numbers to call ?"
+        },
+        {
+          "text": "Who to call for emregency"
+        },
+        {
+          "text": "What number should I call for emergency"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "public_transportation",
+      "examples": [
+        {
+          "text": "Are public buses available?"
+        },
+        {
+          "text": "Is the tram open?"
+        },
+        {
+          "text": "Are there any public transportations?"
+        },
+        {
+          "text": "Can I take the taxi?"
+        },
+        {
+          "text": "Can I take the bus?"
+        },
+        {
+          "text": "Public Transportation"
+        },
+        {
+          "text": "Can I take the tram?"
+        },
+        {
+          "text": "Which ways of transportations are available?"
+        },
+        {
+          "text": "Can I take the metro?"
+        },
+        {
+          "text": "What about public transportation?"
+        },
+        {
+          "text": "Is the metro open?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Get lost"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "pets_at_home",
+      "examples": [
+        {
+          "text": "Is it fine to have a cat in the house?"
+        },
+        {
+          "text": "Should I abandon my pet?"
+        },
+        {
+          "text": "Can I get the virus from my pet"
+        },
+        {
+          "text": "Is it fine to have a dog in the house?"
+        },
+        {
+          "text": "Should I be scared from pets?"
+        },
+        {
+          "text": "Should I be worried from my dog?"
+        },
+        {
+          "text": "Should I be worried from my cat?"
+        },
+        {
+          "text": "is it ok to have pets at home ?"
+        },
+        {
+          "text": "Should I be worried from my pet?"
+        },
+        {
+          "text": "Can I get corona from my pet?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bot_Control_Clarification",
+      "examples": [
+        {
+          "text": "What are you saying?"
+        },
+        {
+          "text": "What do you mean by that?"
+        },
+        {
+          "text": "I didn't catch that"
+        },
+        {
+          "text": "What are you referring to?"
+        },
+        {
+          "text": "Let's try to say that again more clearly, shall we?"
+        },
+        {
+          "text": "What are you talking about?"
+        },
+        {
+          "text": "I didn't quite understand what you said"
+        },
+        {
+          "text": "I don't understand what you're saying"
+        },
+        {
+          "text": "I didn't understand that properly"
+        },
+        {
+          "text": "I need more information"
+        },
+        {
+          "text": "What do you mean?"
+        },
+        {
+          "text": "I did not quite understand what you gave me"
+        },
+        {
+          "text": "I don't get it"
+        },
+        {
+          "text": "Explains"
+        },
+        {
+          "text": "Can you say that again please?"
+        },
+        {
+          "text": "I don't understand"
+        },
+        {
+          "text": "Come again?"
+        }
+      ],
+      "description": "Repeat or clarify last statement."
+    },
+    {
+      "intent": "Bot_Control_Unsure",
+      "examples": [
+        {
+          "text": "No clue"
+        },
+        {
+          "text": "I have no idea what you are looking for"
+        },
+        {
+          "text": "I m not sure what will make you happy"
+        },
+        {
+          "text": "I m not certain I get what you re saying"
+        },
+        {
+          "text": "I haven't got a clue"
+        },
+        {
+          "text": "I m not yet convinced"
+        },
+        {
+          "text": "To be honest, I m really not sure"
+        },
+        {
+          "text": "You got me"
+        },
+        {
+          "text": "I don t know what you need"
+        },
+        {
+          "text": "I don t know what you want"
+        },
+        {
+          "text": "I have no idea, actually"
+        },
+        {
+          "text": "No idea"
+        }
+      ],
+      "description": "Indicate no definite answer to a question."
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "leaving_home",
+      "examples": [
+        {
+          "text": "When can I leave home in Abu Dhabi?"
+        },
+        {
+          "text": "When can I leave home in Dubai?"
+        },
+        {
+          "text": "Where can I go?"
+        },
+        {
+          "text": "What time can I leave the house"
+        },
+        {
+          "text": "Is it allowed to go to grocery?"
+        },
+        {
+          "text": "Can I go for grocery shopping"
+        },
+        {
+          "text": "Can I go to the grocery?"
+        },
+        {
+          "text": "what time should I come back home ?"
+        },
+        {
+          "text": "What time can I leave home"
+        },
+        {
+          "text": "When can I leave home"
+        },
+        {
+          "text": "I want to know about the lockdown"
+        },
+        {
+          "text": "When is the curfew?"
+        },
+        {
+          "text": "lock down and curfew?"
+        },
+        {
+          "text": "Is there a request that I need to fill so I can leave home?"
+        },
+        {
+          "text": "How to go out?"
+        },
+        {
+          "text": "How to leave home"
+        },
+        {
+          "text": "Which places am I allowed to go during corona?"
+        },
+        {
+          "text": "What time does the lockdown start?"
+        },
+        {
+          "text": "What time can I leave home?"
+        },
+        {
+          "text": "Can I go to the pharmacy?"
+        },
+        {
+          "text": "Can I go to the supermarket?"
+        },
+        {
+          "text": "Can I go out?"
+        },
+        {
+          "text": "Can I leave home?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "covid-what-if-sick",
+      "examples": [
+        {
+          "text": "What if I think I have coronavirus?"
+        },
+        {
+          "text": "What do I do if I'm infected with covid-19?"
+        },
+        {
+          "text": "What do I do if I have been exposed to the virus?"
+        },
+        {
+          "text": "What if I'm sick?"
+        },
+        {
+          "text": "What should I do if I'm sick?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "text": "i need assistance"
+        },
+        {
+          "text": "help"
+        },
+        {
+          "text": "can you help"
+        },
+        {
+          "text": "help me"
+        },
+        {
+          "text": "can you assist me"
+        },
+        {
+          "text": "what can i say"
+        },
+        {
+          "text": "what can i do"
+        },
+        {
+          "text": "help me decide"
+        }
+      ],
+      "description": "Ask for help"
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "get me a person"
+        },
+        {
+          "text": "I don't want to speak with a robot"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "talk to a human"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "I want to talk to the manager"
+        },
+        {
+          "text": "I want to speak to a human"
+        },
+        {
+          "text": "call the manager"
+        },
+        {
+          "text": "I dont want to talk to a computer"
+        },
+        {
+          "text": "I want to speak to a person"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "representative"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "pet_clinic",
+      "examples": [
+        {
+          "text": "Can I take my cat to the vet?"
+        },
+        {
+          "text": "Are vet clinics open?"
+        },
+        {
+          "text": "Vet clinics"
+        },
+        {
+          "text": "Can I take my dog the vet"
+        },
+        {
+          "text": "Are vet clinics closed?"
+        },
+        {
+          "text": "What if I need to take my pet to the vet?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "covid-flu-vs-common-cold",
+      "examples": [
+        {
+          "text": "How is a cold different from the flu?"
+        },
+        {
+          "text": "How do flu symptoms differ from cold symptoms?"
+        },
+        {
+          "text": "What's the difference between flu and coronavirus"
+        },
+        {
+          "text": "corona vs flu"
+        },
+        {
+          "text": "Flu vs corona"
+        },
+        {
+          "text": "Flu vs cold"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "CDC_Info",
+      "examples": [
+        {
+          "text": "cdc_link"
+        }
+      ],
+      "description": "Get latest COVID information from CDC "
+    },
+    {
+      "intent": "safety_guidelines",
+      "examples": [
+        {
+          "text": "How to wear masks / gloves ?"
+        },
+        {
+          "text": "Where should I wear masks ?"
+        },
+        {
+          "text": "what are the main safety guidelines"
+        },
+        {
+          "text": "Where should I wear masks and gloves ?"
+        },
+        {
+          "text": "how to properly get rid of masks and gloves after use?"
+        },
+        {
+          "text": "Where should I wear gloves?"
+        },
+        {
+          "text": "what safety guidelines should I follow?"
+        },
+        {
+          "text": "How to protect myself from Corona?"
+        },
+        {
+          "text": "How to protect myself from Covid19?"
+        },
+        {
+          "text": "How can I protect myself"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "yo"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey how are you doing"
+        }
+      ],
+      "description": "Greetings"
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "Customer_Care_Store_Hours",
+      "examples": [
+        {
+          "text": "Is the branch open now?"
+        },
+        {
+          "text": "What is the opening time for the washington store?"
+        },
+        {
+          "text": "Are you closing early today"
+        },
+        {
+          "text": "when does the store close"
+        },
+        {
+          "text": "are stores open on sunday"
+        },
+        {
+          "text": "how late are you open tonight"
+        },
+        {
+          "text": "how late are you open"
+        },
+        {
+          "text": "Are you open on Sunday"
+        },
+        {
+          "text": "store open hours?"
+        },
+        {
+          "text": "What time do you close today"
+        },
+        {
+          "text": "What time does the central manchester store shut on a saturday?"
+        },
+        {
+          "text": "how late y'all stay up till"
+        },
+        {
+          "text": "What are the hours of operation?"
+        },
+        {
+          "text": "open hours store"
+        },
+        {
+          "text": "store open now"
+        },
+        {
+          "text": "Are you open on sundays, and if so what are the hours?"
+        },
+        {
+          "text": "Are you open on bank holidays?"
+        },
+        {
+          "text": "Are you closed new Year's eve"
+        },
+        {
+          "text": "how early do you open on Saturdays"
+        },
+        {
+          "text": "how late are you there"
+        },
+        {
+          "text": "What time are you closing today?"
+        },
+        {
+          "text": "store open"
+        },
+        {
+          "text": "store hrs"
+        },
+        {
+          "text": "Does the store in the city center opens till 8pm on weekends?"
+        },
+        {
+          "text": "Can you tell me how late the stores are open till?"
+        },
+        {
+          "text": "At what hour can I swing by?"
+        },
+        {
+          "text": "will you open on christmas"
+        },
+        {
+          "text": "Are the stores open early?"
+        },
+        {
+          "text": "Are you open during thanksgiving?"
+        },
+        {
+          "text": "What are your hous?"
+        },
+        {
+          "text": "What are ur opening hours?"
+        },
+        {
+          "text": "What are the saturday opening times for the local store?"
+        },
+        {
+          "text": "What are the business hours of the store nearest to me?"
+        },
+        {
+          "text": "What time do stores close?"
+        },
+        {
+          "text": "What time is your store open on saturday?"
+        },
+        {
+          "text": "what are your hours"
+        },
+        {
+          "text": "will you open for christmas"
+        },
+        {
+          "text": "will you be open Memorial day"
+        },
+        {
+          "text": "when do you close"
+        },
+        {
+          "text": "What time do you close"
+        },
+        {
+          "text": "Hours of operation"
+        },
+        {
+          "text": "What time do you open on Saturdays"
+        },
+        {
+          "text": "what time do you close on Sunday"
+        },
+        {
+          "text": "when do your stores open"
+        },
+        {
+          "text": "when can i visit your store"
+        },
+        {
+          "text": "How early do you open?"
+        },
+        {
+          "text": "How long are you open?"
+        },
+        {
+          "text": "store hours"
+        }
+      ],
+      "description": "Find business hours."
+    },
+    {
+      "intent": "exemptions",
+      "examples": [
+        {
+          "text": "Who can commute?"
+        },
+        {
+          "text": "Which industries allow their employees to go the office"
+        },
+        {
+          "text": "Which sectors can work in the offices"
+        },
+        {
+          "text": "Who can leave the house"
+        },
+        {
+          "text": "who can leave home?"
+        },
+        {
+          "text": "who is allowed to go out"
+        },
+        {
+          "text": "Who is allowed to leave the house?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bot_Control_Change_Subject",
+      "examples": [
+        {
+          "text": "Here is another issue"
+        },
+        {
+          "text": "Another thing"
+        },
+        {
+          "text": "I have one more question"
+        },
+        {
+          "text": "Chat about something else"
+        },
+        {
+          "text": "Change topic"
+        },
+        {
+          "text": "Talk about something else"
+        },
+        {
+          "text": "Discuss something else"
+        },
+        {
+          "text": "Help me with this other question"
+        },
+        {
+          "text": "Let us talk about something else"
+        },
+        {
+          "text": "A different matter"
+        },
+        {
+          "text": "Can we talk about something else?"
+        },
+        {
+          "text": "Let us change the topic"
+        }
+      ],
+      "description": "Change to a different topic."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "specialist",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Robert",
+          "synonyms": [
+            "bob"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Derrik",
+          "synonyms": [
+            "derek",
+            "derik",
+            "derrik",
+            "derrick"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Maria",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Nicholas",
+          "synonyms": [
+            "nick"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Brenda",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Barbara",
+          "synonyms": [
+            "barbra"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "phone",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "UAE Phone pattern",
+          "patterns": [
+            "(\\d{2})-(\\d{3})-(\\d{4})"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "my-locations",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "United Arab Emirates",
+          "synonyms": [
+            "UAE",
+            "u.a.e",
+            "emirates"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "school_type",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "college",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "preschool",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "grade school",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "high school",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "middle school",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "emergency",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Civil Defence",
+          "synonyms": [
+            "fire department",
+            "civil defence"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "police",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "emergency",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "ambulance",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "coronavirus helpline",
+          "synonyms": [
+            "corona emergency"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "countries",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "France",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "United Arab Emirates",
+          "synonyms": [
+            "UAE",
+            "U.A.E"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "China",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Germany",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Spain",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Italy",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "testing_location",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Drive Thru",
+          "synonyms": [
+            "Drive Through"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Health Care Centers",
+          "synonyms": [
+            "Health Care",
+            "Health Center",
+            "Health Centers",
+            "Hospitals",
+            "clinics"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "coronavirus",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "coronavirus",
+          "synonyms": [
+            "COVID",
+            "COVID-19",
+            "virus",
+            "virus check",
+            "corona"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "reply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "definitely not",
+            "don't think so",
+            "dont think so",
+            "i think not",
+            "nope",
+            "not at this time",
+            "not now"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "definitely",
+            "go for it",
+            "let's do it",
+            "ok",
+            "please",
+            "sure",
+            "why not",
+            "yeah",
+            "yes",
+            "you bet",
+            "you betcha",
+            "yep"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "screening",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "cost",
+          "synonyms": [
+            "price",
+            "pricing",
+            "costs"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "documents",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "process",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "location",
+          "synonyms": [
+            "places"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-location",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "emirates",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Dubai",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Abu Dhabi",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "zip_code",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "43203",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "43202",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "43201",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "43206",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "43123",
+          "synonyms": []
+        },
+        {
+          "type": "patterns",
+          "value": "@sys-number",
+          "patterns": [
+            "(\\b|\\s)\\d{5}(\\b|\\s)"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "43125",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "43207",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "43147",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "43204",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "43209",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "43205",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "43137",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "sys-number",
+      "values": []
+    },
+    {
+      "entity": "transportations",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "taxi",
+          "synonyms": [
+            "taxis"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Tram",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bus",
+          "synonyms": [
+            "Public bus"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Metro",
+          "synonyms": [
+            "train"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "holiday",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "christmas eve",
+          "synonyms": [
+            "x mas eve",
+            "x-mas eve",
+            "xmas eve"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "valentine's day",
+          "synonyms": [
+            "valentine day",
+            "valentines day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "new years eve",
+          "synonyms": [
+            "12-31",
+            "12/31",
+            "dec 31",
+            "dec 31st",
+            "new year's eve"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "new years",
+          "synonyms": [
+            "1/1",
+            "jan 1",
+            "jan 1st",
+            "jan first",
+            "january 1",
+            "january 1st",
+            "january first",
+            "new year",
+            "new year day",
+            "new years day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "labor day",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "thanksgiving",
+          "synonyms": [
+            "turkey day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "memorial day",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "halloween",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "christmas",
+          "synonyms": [
+            "christmas day",
+            "x man day",
+            "xmas",
+            "x mas",
+            "x-mas",
+            "x-mas day",
+            "xmas day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "independence day",
+          "synonyms": [
+            "7/4",
+            "fourth of july",
+            "july 4",
+            "july 4th",
+            "july fourth"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "prescreening",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "prescreening",
+          "synonyms": [
+            "self-screening",
+            "self screening",
+            "health check"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "landmark",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "times square",
+          "synonyms": [
+            "time sqaure",
+            "time square",
+            "times sqaure"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "grand central",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "empire state building",
+          "synonyms": [
+            "empire state",
+            "emprire state"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "documents",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "passport",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "emirated ID",
+          "synonyms": [
+            "ID"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    },
+    {
+      "entity": "new_zip_code",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "78715",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "78717",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "78719",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "78713",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "78712",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "75001",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "75014",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "78708",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "78711",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "78714",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "78716",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "78709",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "78710",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "not_sure",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "not sure",
+          "synonyms": [
+            "I don't know",
+            "I'm uncertain",
+            "I'm not sure"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "shops",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "pharmacy",
+          "synonyms": [
+            "pharmacies",
+            "supermarket",
+            "grocery",
+            "groceries"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "vet clinic",
+          "synonyms": [
+            "pet clinic"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://us-south.functions.cloud.ibm.com/api/v1/web/b67936b7-350b-4020-a14b-a0c9687ff99d/default/Covid19_action.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "According to assessment, it appears that you may be at risk COVID-19, as there are other individuals sharing the same house with you. You are required to be transferred to a designated facility for isolation. Testing for COVID-19 is not required however, if you choose to do the test kindly note that as per government directive, the cost of the test will be covered by you. You can book an appointment at one of UAE's testing/screening centers and make sure to bring along your documents (Emirates ID and Medical Insurance card)."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1586212011838",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1586354973250"
+      },
+      "conditions": "@reply:yes",
+      "dialog_node": "response_1_1586212287067",
+      "previous_sibling": "response_5_1586212089024"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "According to assessment, it appears that you may be at risk COVID-19, kindly self-isolate for 14 days AND DO the questionnaire again if patient develops symptoms. \nTesting for COVID-19 is not required however, if you choose to do the test, kindly note that as per government directive, the cost of the test will be covered by you. You can book an appointment at one of UAE's testing/screening centers and make sure to bring along your documents (Emirates ID and Medical Insurance card)."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1586212011838",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1586354973250"
+      },
+      "conditions": "@reply:no",
+      "dialog_node": "response_5_1586212089024"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1586210220205",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1586210220222",
+      "previous_sibling": "handler_2_1586210220222"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_3_1586210220205",
+      "event_name": "input",
+      "dialog_node": "handler_2_1586210220222"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "What type of school do your children attend?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_9_1584379363794",
+      "event_name": "focus",
+      "dialog_node": "handler_3_1584379363808",
+      "previous_sibling": "handler_8_1584379363808"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1584379363794",
+      "context": {
+        "school_type": "@school_type"
+      },
+      "conditions": "@school_type",
+      "event_name": "input",
+      "dialog_node": "handler_8_1584379363808"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Select location type:",
+            "options": [
+              {
+                "label": "Drive Through",
+                "value": {
+                  "input": {
+                    "text": "Drive Through"
+                  }
+                }
+              },
+              {
+                "label": "Health Care Centers",
+                "value": {
+                  "input": {
+                    "text": "Health Care Centers"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_2_1586343783811",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1586343783811",
+      "previous_sibling": "handler_3_1586343783811"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1586343783811",
+      "context": {
+        "testing_location": "@testing_location"
+      },
+      "conditions": "@testing_location",
+      "event_name": "input",
+      "dialog_node": "handler_3_1586343783811"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I don't have number of cases in this location"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1585585928538",
+      "conditions": "anything_else",
+      "dialog_node": "response_6_1585586180214",
+      "previous_sibling": "response_2_1585586178318"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$webhook_result_3.result"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1585585928538",
+      "conditions": "$webhook_result_3",
+      "dialog_node": "response_2_1585586178318"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_2_1586353981684",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1586242247876"
+      },
+      "conditions": "@screening:(cost)",
+      "dialog_node": "response_6_1586353981684",
+      "previous_sibling": "slot_3_1586353981684"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_2_1586353981684",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1586245384020"
+      },
+      "conditions": "@screening:process",
+      "dialog_node": "response_8_1586353981684",
+      "previous_sibling": "response_7_1586353981684"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_2_1586353981684",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1586343086196"
+      },
+      "conditions": "@screening:location",
+      "dialog_node": "response_7_1586353981684",
+      "previous_sibling": "response_6_1586353981684"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_2_1586353981684",
+      "variable": "$",
+      "dialog_node": "slot_3_1586353981684"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "More:",
+            "options": [
+              {
+                "label": "Testing Centers",
+                "value": {
+                  "input": {
+                    "text": "location"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_2_1586355330198",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1586355330294",
+      "previous_sibling": "handler_5_1586355330294"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1586355330198",
+      "context": {
+        "emirates": "@emirates"
+      },
+      "conditions": "@emirates",
+      "event_name": "input",
+      "dialog_node": "handler_5_1586355330294"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_5_1586332235457",
+      "variable": "$emirates",
+      "dialog_node": "slot_8_1586332268360",
+      "previous_sibling": "node_9_1586332221637"
+    },
+    {
+      "type": "standard",
+      "title": "Selected_Location_Dubai",
+      "output": {},
+      "parent": "node_5_1586332235457",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@testing_location",
+      "dialog_node": "node_9_1586332221637",
+      "previous_sibling": "node_3_1586336385173"
+    },
+    {
+      "type": "standard",
+      "title": "Selected_Location_Abu_Dhabi",
+      "parent": "node_5_1586332235457",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@testing_location",
+      "dialog_node": "node_3_1586336385173",
+      "previous_sibling": "response_1_1586336219804"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Choose location type:",
+            "options": [
+              {
+                "label": "Drive Through",
+                "value": {
+                  "input": {
+                    "text": "Drive Through"
+                  }
+                }
+              },
+              {
+                "label": "Health Care Centers",
+                "value": {
+                  "input": {
+                    "text": "Health Care Centers"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_5_1586332235457",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_3_1586336385173"
+      },
+      "conditions": "@emirates:(Abu Dhabi)",
+      "dialog_node": "response_1_1586336219804",
+      "previous_sibling": "response_3_1586336169567"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Choose location type:",
+            "options": [
+              {
+                "label": "Drive Through",
+                "value": {
+                  "input": {
+                    "text": "Drive Through"
+                  }
+                }
+              },
+              {
+                "label": "Health Care Centers",
+                "value": {
+                  "input": {
+                    "text": "Health Care Centers"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_5_1586332235457",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_9_1586332221637"
+      },
+      "conditions": "@emirates:(Dubai)",
+      "dialog_node": "response_3_1586336169567"
+    },
+    {
+      "type": "standard",
+      "title": "More",
+      "output": {
+        "generic": [
+          {
+            "title": "More:",
+            "options": [
+              {
+                "label": "Test Cost",
+                "value": {
+                  "input": {
+                    "text": "cost"
+                  }
+                }
+              },
+              {
+                "label": "Required Documents",
+                "value": {
+                  "input": {
+                    "text": "documents"
+                  }
+                }
+              },
+              {
+                "label": "Test Process",
+                "value": {
+                  "input": {
+                    "text": "process"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "",
+      "dialog_node": "node_2_1586346516037",
+      "previous_sibling": "node_8_1586268317916"
+    },
+    {
+      "type": "frame",
+      "title": "Leaving Home",
+      "parent": "node_7_1584122886005",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#leaving_home",
+      "dialog_node": "node_3_1586219201637",
+      "previous_sibling": "node_10_1586251432354"
+    },
+    {
+      "type": "standard",
+      "title": "Corona_vs_flu",
+      "output": {
+        "generic": [
+          {
+            "time": 2000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "People who have the flu will typically experience symptoms within 1–4 days. The symptoms for COVID-19 can develop between 1–14 days."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 4000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "However, according to 2020 research, the median incubation period for COVID-19 is 5 days. As a point of comparison, the incubation period for a cold is 1–3 days. For more info check out this link https://bit.ly/2XlB2k6 and check the symptoms difference in this image."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "source": "https://i2.wp.com/www.mercurynews.com/wp-content/uploads/2020/03/Not-the-Flu.jpg?fit=620%2C9999px&ssl=1",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "#covid-flu-vs-common-cold",
+      "dialog_node": "node_3_1586361890736",
+      "previous_sibling": "node_10_1586361364936"
+    },
+    {
+      "type": "standard",
+      "title": "Car",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can only take your car if it's an emergency. It's advised to stay home. In case you have an emergency, a maximum number of three persons is allowed inside cars. For more information check this link: https://bit.ly/2JODSWD"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "#take_my_car",
+      "dialog_node": "node_9_1586359091709",
+      "previous_sibling": "node_1_1586357529895"
+    },
+    {
+      "type": "standard",
+      "title": "Get CDC Info",
+      "output": {
+        "generic": [
+          {
+            "title": "Here are some of the most up-to-date bulletins from the CDC:",
+            "options": [
+              {
+                "label": "Watch this video to learn about COVID-19",
+                "value": {
+                  "input": {
+                    "text": "who_video"
+                  }
+                }
+              },
+              {
+                "label": "Facts About COVID-19 from the CDC",
+                "value": {
+                  "input": {
+                    "text": "cdc_facts"
+                  }
+                }
+              },
+              {
+                "label": "CDC Information for Travelers",
+                "value": {
+                  "input": {
+                    "text": "cdc_traveler"
+                  }
+                }
+              },
+              {
+                "label": "Latest summary update from the CDC",
+                "value": {
+                  "input": {
+                    "text": "cdc_summary"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "#CDC_Info",
+      "dialog_node": "node_5_1584122814434",
+      "previous_sibling": "node_4_1586359731645"
+    },
+    {
+      "type": "standard",
+      "title": "Test_Cost",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Drive Through testings cost around 370 AED, price might be slightly changed depending on the provider. Regular tests in Health Centers cost 112 AED."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "More:",
+            "options": [
+              {
+                "label": "Screening/Test Locations",
+                "value": {
+                  "input": {
+                    "text": "location"
+                  }
+                }
+              },
+              {
+                "label": "Required Documents",
+                "value": {
+                  "input": {
+                    "text": "documents"
+                  }
+                }
+              },
+              {
+                "label": "Test Process",
+                "value": {
+                  "input": {
+                    "text": "process"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "#test_cost",
+      "dialog_node": "node_8_1586242247876",
+      "previous_sibling": "node_6_1586217951857"
+    },
+    {
+      "type": "frame",
+      "title": "Public_Transportations",
+      "parent": "node_7_1584122886005",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#public_transportation || @transportations",
+      "dialog_node": "node_4_1586359731645",
+      "previous_sibling": "node_6_1586356456082"
+    },
+    {
+      "type": "standard",
+      "title": "Grocery Guidelines",
+      "output": {
+        "generic": [
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Main guidelines to know about groceries:\n-Make sure to ware gloves and mask, if not you will have to pay a fine.\n-Grocery shops cannot exceed 30% of customers capacity.\n-When returning home, it's better to keep your shoes out of your house, change the gloves and as for masks, if you have the cheap ones then throw them, if you have the better quality, then make sure to wash it and put it under the sun so it can dry out.\nFor more tips about Do's and Don'ts, check this link: https://bit.ly/2wsgprm"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "#grocery_questions",
+      "dialog_node": "node_6_1586356456082",
+      "previous_sibling": "node_3_1586202337988"
+    },
+    {
+      "type": "standard",
+      "title": "Delivery_Food",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, but order food that is cooked well and make sure to eat it while it’s hot."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "#delivery_food",
+      "dialog_node": "node_3_1586218763846",
+      "previous_sibling": "node_5_1586360277404"
+    },
+    {
+      "type": "standard",
+      "title": "cdc_summary",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Go to this web site for the latest update on the COVID-19 situation from the CDC:  https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Read more about it:  https://www.cdc.gov/coronavirus/2019-ncov/about/share-facts.html"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1584244958266"
+      },
+      "conditions": "#cdc_facts",
+      "dialog_node": "node_1_1584241125915",
+      "previous_sibling": "node_4_1584124684903"
+    },
+    {
+      "type": "frame",
+      "title": "Screenings_location",
+      "parent": "node_7_1584122886005",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#screening_locations",
+      "dialog_node": "node_8_1586343086196",
+      "previous_sibling": "node_3_1586219201637"
+    },
+    {
+      "type": "standard",
+      "title": "Open Shops",
+      "parent": "node_7_1584122886005",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#open_shops || @shops",
+      "dialog_node": "node_4_1586256905038",
+      "previous_sibling": "node_3_1586218763846"
+    },
+    {
+      "type": "standard",
+      "title": "cdc_facts",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Know the facts about coronavirus disease 2019 (COVID-19) and help stop the spread of rumors."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Read more about it:  https://www.cdc.gov/coronavirus/2019-ncov/about/share-facts.html"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1584244958266"
+      },
+      "conditions": "#cdc_facts",
+      "dialog_node": "node_4_1584124684903",
+      "previous_sibling": "node_3_1584124449650"
+    },
+    {
+      "type": "standard",
+      "title": "Documents_required",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "If you are going for a screening or to a testing center, make sure to bring your Emirates ID and your Insurance card."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "More",
+            "options": [
+              {
+                "label": "Test Cost",
+                "value": {
+                  "input": {
+                    "text": "cost"
+                  }
+                }
+              },
+              {
+                "label": "Screening/Test Locations",
+                "value": {
+                  "input": {
+                    "text": "location"
+                  }
+                }
+              },
+              {
+                "label": "Test Process",
+                "value": {
+                  "input": {
+                    "text": "process"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "#documents_screening || @documents",
+      "dialog_node": "node_6_1586217951857",
+      "previous_sibling": "node_8_1586343086196"
+    },
+    {
+      "type": "standard",
+      "title": "Test_Process",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "1- Call DHA Helpline on this number 800 342 to schedule an appointment.\n2- Make sure to bring along your Emirates ID and Medical Insurance Card.\n3- Head to the assigned hospital for your test:\n\t 3.1 Register with payment of 112 AED. \n\t 3.2 You will get an initial assessment (Blood pressure, temperature, etc).\n\t 3.3 You will fill a self declaration form (Travel history, etc) \n\t 3.4 Swab test (as medically prescribed). \n\t 3.5 Get your results within 24 hours. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "context": {},
+      "conditions": "#test_process",
+      "dialog_node": "node_1_1586245384020",
+      "previous_sibling": "node_8_1586242247876"
+    },
+    {
+      "type": "frame",
+      "title": "Self Screening",
+      "parent": "node_7_1584122886005",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@prescreening || #self_screening",
+      "dialog_node": "node_3_1586202337988",
+      "digress_out": "allow_all_never_return",
+      "previous_sibling": "node_3_1586361890736",
+      "digress_out_slots": "allow_all"
+    },
+    {
+      "type": "standard",
+      "title": "People_Allowed",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Only people working in vital fields, including energy, communications, medical, police, army, pharmaceutical, electricity and water, airport and immigration, banking, mass media and construction sectors, as well in petrol stations, will be allowed to leave home for now. Check this link for more information https://bit.ly/2xd00Yb ."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "#exemptions",
+      "dialog_node": "node_10_1586251432354",
+      "previous_sibling": "node_5_1584122814434"
+    },
+    {
+      "type": "standard",
+      "title": "Test_results",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "If you have taken the test and the result is positive, a team member of the test center will contact your for the required procedure. You can always check with your test center as the laboratories are working 24/7 to ensure accurate results at the earliest time."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "#test_results",
+      "dialog_node": "node_5_1586360277404",
+      "previous_sibling": "node_1_1586245384020"
+    },
+    {
+      "type": "standard",
+      "title": "emergency_num",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In case of an emergency, you can call the following numbers while anywhere in the UAE:\n\n911 for Police\n998 for Ambulance\n997 for Fire Department (Civil Defence)\n996 for Coastguard\n991 for electricity failure\n922 for water failure."
+              },
+              {
+                "text": "Call for help, information and services related to the 2019 novel coronavirus (COVID-19) through the following channels:\n\nMinistry of Health & Prevention at 800-11111 \nEstijaba service at the operation center –Department of Health – Abu Dhabi at 800-1717 \nDubai Health Authority at 800-342."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "@emergency || #emergency",
+      "dialog_node": "node_8_1586268317916",
+      "previous_sibling": "node_1_1584227077151"
+    },
+    {
+      "type": "standard",
+      "title": "Go_Locations",
+      "output": {
+        "generic": [
+          {
+            "title": "More:",
+            "options": [
+              {
+                "label": "Testing Centers",
+                "value": {
+                  "input": {
+                    "text": "Testing Centers"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "context": {
+        "reply": null
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "dialog_node": "node_1_1586354973250",
+      "previous_sibling": "node_2_1586346516037"
+    },
+    {
+      "type": "standard",
+      "title": "Pets_Home",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "All pets are safe, they have no chance to pass and infect you with the corona virus. Please do not abandon your pets. Check this link for more info: https://bit.ly/3aVpsjr"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "#pets_at_home",
+      "dialog_node": "node_1_1586357529895",
+      "previous_sibling": "node_4_1586256905038"
+    },
+    {
+      "type": "standard",
+      "title": "cdc_traveler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is important information for travelers from the CDC: https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1584244958266"
+      },
+      "conditions": "#cdc_traveler",
+      "dialog_node": "node_3_1584124449650",
+      "previous_sibling": "node_5_1584379302984"
+    },
+    {
+      "type": "standard",
+      "title": "School openingscole",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "All schools, colleges and universities are closed until a further notice. To make sure education is still going all class sessions have been moved online. For more info check this link https://bit.ly/39Tuuvx"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#covid-schools-open",
+      "dialog_node": "node_5_1584379302984",
+      "previous_sibling": "node_2_1586358372857"
+    },
+    {
+      "type": "standard",
+      "title": "Safety_Guidelines",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "- Always make sure to wear masks and gloves when you leave your house\n- Practice social distancing by keeping at least 6 feet (about two arm lengths) away from others\n-Wash your hands often with soap and water for at least 20 seconds\n-Stay home if you can and avoid any non-essential travel.\nFor more information about safety guidelines please check this link: https://rdcrss.org/2VfaqOK\nFor information on how to properly remove masks check this link: https://bit.ly/2xZeD1c"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "#safety_guidelines",
+      "dialog_node": "node_2_1586358372857",
+      "previous_sibling": "node_9_1586359091709"
+    },
+    {
+      "type": "standard",
+      "title": "who_video",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Watch this video from the World Health Organization to learn what we know about COVID-19 right now: https://youtu.be/mOV1aBVYKGA"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1584244958266"
+      },
+      "conditions": "#who_video",
+      "dialog_node": "node_1_1584227077151",
+      "previous_sibling": "node_1_1584241125915"
+    },
+    {
+      "type": "standard",
+      "title": "Corona_info",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Novel Coronavirus (COVID-19) is a new strain of coronavirus, first identified in a cluster with pneumonia symptoms in Wuhan city,   Hubei province of China. Most of the cases were epidemiologically linked to the seafood and animal market. It started on 31st of December 2019, but unfortunately no one knows when it will end. Older adults and people of any age who have serious underlying medical conditions (Asthma, HIV, Cancer, Diabetes) might be at higher risk for severe illness from COVID-19. For more info, check this link: https://bit.ly/2XloMQo"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1584122886005",
+      "conditions": "#corona_info",
+      "dialog_node": "node_10_1586361364936"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "According to assessment, it appears that you may be at risk COVID-19 since you are symptomatic. Kindly make sure to check the nearest AHS clinic and bring along your documents (Emirates ID and Medical Insurance card)."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1586213017328",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1586354973250"
+      },
+      "conditions": "@reply:no",
+      "dialog_node": "response_5_1586213062348",
+      "previous_sibling": "response_10_1586213060799"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "According to assessment, it appears that you may be at risk COVID-19 since you are symptomatic with shortness of breath. Kindly make sure go to the nearest Emergency Center and bring along your documents (Emirates ID and Medical Insurance card)."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1586213017328",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1586354973250"
+      },
+      "conditions": "@reply:yes",
+      "dialog_node": "response_10_1586213060799"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "More:",
+            "options": [
+              {
+                "label": "Testing Centers",
+                "value": {
+                  "input": {
+                    "text": "location"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1586354973250",
+      "disabled": true,
+      "conditions": "@screening:location",
+      "dialog_node": "response_7_1586355436348",
+      "previous_sibling": "node_9_1586355598458"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1586354973250",
+      "variable": "$emirates",
+      "dialog_node": "slot_2_1586355330198",
+      "previous_sibling": "response_7_1586355436348"
+    },
+    {
+      "type": "standard",
+      "title": "Jump",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_1_1586354973250",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1586343086196"
+      },
+      "conditions": "@screening:location",
+      "dialog_node": "node_9_1586355598458"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Can you tell me the name of your state?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_2_1584351204054",
+      "event_name": "focus",
+      "dialog_node": "handler_8_1584351204094",
+      "previous_sibling": "handler_3_1584351204094"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1584351204054",
+      "context": {
+        "state": "@sys-location"
+      },
+      "conditions": "@sys-location",
+      "event_name": "input",
+      "dialog_node": "handler_3_1584351204094"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Public buses are available for free, and taxis are giving 50$ discount. For more information visit the link: https://bit.ly/3aQ74IG"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1586359731645",
+      "conditions": "$emirates == \"Abu Dhabi\"",
+      "dialog_node": "response_9_1586389063881",
+      "previous_sibling": "response_2_1586359785010"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Dubai Metro and Tram services will be suspended from April 5 until further notice. Public buses are available for free, and taxis are giving 50$ discount. For more information visit the link: https://bit.ly/3aQ74IG"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1586359731645",
+      "conditions": "$emirates == \"Dubai\"",
+      "dialog_node": "response_2_1586359785010",
+      "previous_sibling": "slot_2_1586359785749"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_4_1586359731645",
+      "variable": "$emirates",
+      "dialog_node": "slot_2_1586359785749"
+    },
+    {
+      "type": "standard",
+      "title": "Recommendation_Selected",
+      "output": {},
+      "parent": "node_6_1586217951857",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@screening",
+      "dialog_node": "node_2_1586353981684"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_9_1586354110764",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1586343086196"
+      },
+      "conditions": "@screening:location",
+      "dialog_node": "response_14_1586354110781",
+      "previous_sibling": "response_13_1586354110781"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_9_1586354110764",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1586245384020"
+      },
+      "conditions": "@screening:process",
+      "dialog_node": "response_15_1586354110781",
+      "previous_sibling": "response_14_1586354110781"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_9_1586354110764",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1586217951857"
+      },
+      "conditions": "@screening:documents",
+      "dialog_node": "response_13_1586354110781",
+      "previous_sibling": "slot_10_1586354110781"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_9_1586354110764",
+      "variable": "$",
+      "dialog_node": "slot_10_1586354110781"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1584247191393",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1584247191426",
+      "previous_sibling": "handler_2_1584247191426"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_2_1584247191393",
+      "event_name": "input",
+      "dialog_node": "handler_2_1584247191426"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_12_1586332221649",
+      "event_name": "focus",
+      "dialog_node": "handler_14_1586332221649",
+      "previous_sibling": "handler_13_1586332221649"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_12_1586332221649",
+      "context": {
+        "": "@"
+      },
+      "conditions": "@",
+      "event_name": "input",
+      "dialog_node": "handler_13_1586332221649"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Do you have family members living with you in the same house?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_6_1586211103837",
+      "conditions": "@reply:no",
+      "dialog_node": "response_6_1586211159945",
+      "previous_sibling": "node_8_1586212011838"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "According to assessment, it appears that you may be at risk for COVID-19, as there are other individuals sharing the same house with you. You are required to be transferred to a designated facility for isolation. Testing for COVID-19 is not required however, if you choose to do the test kindly note that as per government directive, the cost of the test will be covered by you.  You can book an appointment at one of UAE's testing/screening centers and make sure to bring along your documents (Emirates ID and Medical Insurance card)."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1586211103837",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1586354973250"
+      },
+      "conditions": "@reply:yes",
+      "dialog_node": "response_10_1586211232767",
+      "previous_sibling": "response_6_1586211159945"
+    },
+    {
+      "type": "standard",
+      "title": "family_members_selected_choice",
+      "parent": "node_6_1586211103837",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@reply",
+      "dialog_node": "node_8_1586212011838"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For now, Festival City in Dubai just opened its first screening drive through center. More are coming soon.  You can check more about it here: https://bit.ly/2yJPIPI"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "More",
+            "options": [
+              {
+                "label": "Testing Costs",
+                "value": {
+                  "input": {
+                    "text": "Costs"
+                  }
+                }
+              },
+              {
+                "label": "Testing Process",
+                "value": {
+                  "input": {
+                    "text": "process"
+                  }
+                }
+              },
+              {
+                "label": "Documents Required",
+                "value": {
+                  "input": {
+                    "text": "documents"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_9_1586332221637",
+      "conditions": "@testing_location:(Drive Thru)",
+      "dialog_node": "response_22_1586332221649",
+      "previous_sibling": "response_21_1586332221649"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Check DHA Primary Health Centers here: https://www.bayut.com/mybayut/corona-virus-test-dubai/\n\nFor locations of hospitals check the map here: https://bit.ly/2XfZJyh"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "More:",
+            "options": [
+              {
+                "label": "Testing Costs",
+                "value": {
+                  "input": {
+                    "text": "Cost"
+                  }
+                }
+              },
+              {
+                "label": "Documents Required",
+                "value": {
+                  "input": {
+                    "text": "Documents"
+                  }
+                }
+              },
+              {
+                "label": "Testing Process",
+                "value": {
+                  "input": {
+                    "text": "Process"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_9_1586332221637",
+      "conditions": "@testing_location:(Health Care Centers)",
+      "dialog_node": "response_21_1586332221649",
+      "previous_sibling": "node_10_1586332221649"
+    },
+    {
+      "type": "standard",
+      "title": "Clear Variable",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_9_1586332221637",
+      "context": {
+        "emirates": null,
+        "testing_location": null
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "true",
+      "dialog_node": "node_10_1586332221649"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Select Emirate:",
+            "options": [
+              {
+                "label": "Abu Dhabi",
+                "value": {
+                  "input": {
+                    "text": "Abu Dhabi"
+                  }
+                }
+              },
+              {
+                "label": "Dubai",
+                "value": {
+                  "input": {
+                    "text": "Dubai"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_8_1586332268360",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1586332268381",
+      "previous_sibling": "handler_3_1586332268381"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1586332268360",
+      "context": {
+        "emirates": "@emirates"
+      },
+      "conditions": "@emirates",
+      "event_name": "input",
+      "dialog_node": "handler_3_1586332268381"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Have you been in contact with someone known to have coronavirus?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1586202337988",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1586209533589"
+      },
+      "conditions": "$reply:yes",
+      "dialog_node": "response_4_1586204080826",
+      "previous_sibling": "node_1_1586209554196"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Have you been in contact with someone known to  have coronavirus?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1586202337988",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1586209554196"
+      },
+      "conditions": "$reply:(no)",
+      "dialog_node": "response_7_1586209291668",
+      "previous_sibling": "response_4_1586204080826"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_3_1586202337988",
+      "variable": "$reply",
+      "dialog_node": "slot_5_1586203954089",
+      "previous_sibling": "response_7_1586209291668"
+    },
+    {
+      "type": "standard",
+      "title": "Travel_no",
+      "parent": "node_3_1586202337988",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "@reply",
+      "dialog_node": "node_1_1586209554196",
+      "previous_sibling": "node_1_1586209533589"
+    },
+    {
+      "type": "standard",
+      "title": "Travel_yes",
+      "parent": "node_3_1586202337988",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@reply",
+      "dialog_node": "node_1_1586209533589"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1586353981684",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1586353981684",
+      "previous_sibling": "handler_4_1586353981684"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1586353981684",
+      "context": {
+        "": "@"
+      },
+      "conditions": "@",
+      "event_name": "input",
+      "dialog_node": "handler_4_1586353981684"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_3_1586219201637",
+      "variable": "$emirates",
+      "dialog_node": "slot_3_1586360573460",
+      "previous_sibling": "response_6_1586360714982"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "According to a statement issued by the Abu Dhabi Media Office, the national sterilisation programme in the Capital will be from 8pm to 6am in residential areas, and 6pm to 6am in industrial zones and workers accommodations. For more information check this link: https://bit.ly/2JOq7rd"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1586219201637",
+      "conditions": "$emirates==\"Abu Dhabi\"",
+      "dialog_node": "response_6_1586360714982",
+      "previous_sibling": "response_5_1586360595596"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The National Sterilisation Programme in Dubai will be extended to 24 hours a day across all areas and communities for a period of two weeks subject to renewal. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Individuals are not allowed to leave the house, except for essential purposes or if they are working in vital sectors exempted from the restrictions."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 4000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "If you wish to leave your home, make sure to submit a request here move.gov.ae. All people leaving home should wear a mask, gloves and ensure they keep a safe distance from others. Check more about it here https://bit.ly/2xXtBoi."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1586219201637",
+      "conditions": "$emirates==\"Dubai\"",
+      "dialog_node": "response_5_1586360595596"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_1_1586347115000",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1586217951857"
+      },
+      "conditions": "@screening:documents",
+      "dialog_node": "response_6_1586347115014",
+      "previous_sibling": "response_5_1586347115014"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_1_1586347115000",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1586245384020"
+      },
+      "conditions": "@screening:process",
+      "dialog_node": "response_7_1586347115014",
+      "previous_sibling": "response_6_1586347115014"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_1_1586347115000",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1586242247876"
+      },
+      "conditions": "@screening:(cost)",
+      "dialog_node": "response_5_1586347115014",
+      "previous_sibling": "slot_2_1586347115013"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1586347115000",
+      "variable": "$",
+      "dialog_node": "slot_2_1586347115013"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Check Abu Dhabi's Health Care Centers here: https://bit.ly/3b4EzHD<iframe src=\"https://www.google.com/maps/d/embed?mid=12XytpJ6bESmXl8SLMAAC1cvnCpjxUsR0\" width=\"640\" height=\"480\"></iframe>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586343783792",
+      "conditions": "@testing_location:(Health Care Centers)",
+      "dialog_node": "response_6_1586343783811",
+      "previous_sibling": "response_5_1586343783811"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For now, SEHA has drive through screening centers in Abu Dhabi, and more are opening soon. You can check more about it here: https://bit.ly/2xXzv94"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586343783792",
+      "conditions": "@testing_location:(Drive Thru)",
+      "dialog_node": "response_5_1586343783811",
+      "previous_sibling": "slot_2_1586343783811"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1586343783792",
+      "variable": "$testing_location",
+      "dialog_node": "slot_2_1586343783811",
+      "previous_sibling": "node_7_1586345979492"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Choose location type",
+            "options": [
+              {
+                "label": "Drive Through",
+                "value": {
+                  "input": {
+                    "text": "Drive Through"
+                  }
+                }
+              },
+              {
+                "label": "Health Care Centers",
+                "value": {
+                  "input": {
+                    "text": "Health Care Centers"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1586343783792",
+      "conditions": "anything_else",
+      "dialog_node": "response_7_1586395935833",
+      "previous_sibling": "response_6_1586343783811"
+    },
+    {
+      "type": "standard",
+      "title": "Clean Variable",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_1_1586343783792",
+      "context": {
+        "testing_location": null
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1586346516037"
+      },
+      "conditions": "true",
+      "dialog_node": "node_7_1586345979492"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Select Emirate:",
+            "options": [
+              {
+                "label": "Abu Dhabi",
+                "value": {
+                  "input": {
+                    "text": "Abu Dhabi"
+                  }
+                }
+              },
+              {
+                "label": "Dubai",
+                "value": {
+                  "input": {
+                    "text": "Dubai"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_2_1586359785749",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1586359785779",
+      "previous_sibling": "handler_9_1586359785779"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1586359785749",
+      "context": {
+        "emirates": "@emirates"
+      },
+      "conditions": "@emirates",
+      "event_name": "input",
+      "dialog_node": "handler_9_1586359785779"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Select location type:",
+            "options": [
+              {
+                "label": "Drive Through",
+                "value": {
+                  "input": {
+                    "text": "Drive Through"
+                  }
+                }
+              },
+              {
+                "label": "Health Care Centers",
+                "value": {
+                  "input": {
+                    "text": "Health Care Centers"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_10_1586343405201",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1586343405235",
+      "previous_sibling": "handler_2_1586343405235"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1586343405201",
+      "context": {
+        "testing_location": "@testing_location"
+      },
+      "conditions": "@testing_location",
+      "event_name": "input",
+      "dialog_node": "handler_2_1586343405235"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Choose Emirate",
+            "options": [
+              {
+                "label": "Abu Dhabi",
+                "value": {
+                  "input": {
+                    "text": "Abu Dhabi"
+                  }
+                }
+              },
+              {
+                "label": "Dubai",
+                "value": {
+                  "input": {
+                    "text": "Dubai"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_3_1586360573460",
+      "event_name": "focus",
+      "dialog_node": "handler_9_1586360573493",
+      "previous_sibling": "handler_5_1586360573493"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1586360573460",
+      "context": {
+        "emirates": "@emirates"
+      },
+      "conditions": "@emirates",
+      "event_name": "input",
+      "dialog_node": "handler_5_1586360573493"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": "OK. Let me know how I can help"
+      },
+      "parent": "node_22_1467833484410",
+      "metadata": {},
+      "conditions": "@reply:no",
+      "dialog_node": "node_21_1468350173406",
+      "previous_sibling": "node_19_1468350024009"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "OK. Transferring... "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_22_1467833484410",
+      "metadata": {},
+      "conditions": "@reply:yes",
+      "dialog_node": "node_19_1468350024009"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_1_1586209554196",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1586209533589"
+      },
+      "conditions": "@reply:yes",
+      "dialog_node": "response_3_1586210347373",
+      "previous_sibling": "response_1_1586210321742"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do not panic! According to assessment, it appears that you are at low risk for COVID-19, if your answers to any of the above questions change, please do the questionnaire again."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586209554196",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1586861626637"
+      },
+      "conditions": "@reply:(no)",
+      "dialog_node": "response_1_1586210321742",
+      "previous_sibling": "node_5_1586861626637"
+    },
+    {
+      "type": "standard",
+      "title": "Clear variable",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_1_1586209554196",
+      "context": {
+        "reply": null
+      },
+      "conditions": "true",
+      "dialog_node": "node_5_1586861626637"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Select Emirate:",
+            "options": [
+              {
+                "label": "Abu Dhabi",
+                "value": {
+                  "input": {
+                    "text": "Abu Dhabi"
+                  }
+                }
+              },
+              {
+                "label": "Dubai",
+                "value": {
+                  "input": {
+                    "text": "Dubai"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_8_1586343086196",
+      "conditions": "@testing_location",
+      "dialog_node": "response_10_1586343241523",
+      "previous_sibling": "response_10_1586343230782"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1586343086196",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1586343783792"
+      },
+      "conditions": "$emirates==\"Abu Dhabi\"",
+      "dialog_node": "response_10_1586343230782",
+      "previous_sibling": "response_10_1586343159492"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Select Emirate:",
+            "options": [
+              {
+                "label": "Abu Dhabi",
+                "value": {
+                  "input": {
+                    "text": "Abu Dhabi"
+                  }
+                }
+              },
+              {
+                "label": "Dubai",
+                "value": {
+                  "input": {
+                    "text": "Dubai"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_8_1586343086196",
+      "conditions": "#screening_locations",
+      "dialog_node": "response_8_1586343268389",
+      "previous_sibling": "response_10_1586343241523"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1586343086196",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_9_1586343297628"
+      },
+      "conditions": "$emirates==\"Dubai\"",
+      "dialog_node": "response_10_1586343159492",
+      "previous_sibling": "node_1_1586343783792"
+    },
+    {
+      "type": "frame",
+      "title": "In_Abu_Dhabi",
+      "output": {},
+      "parent": "node_8_1586343086196",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "@testing_location ||   @emirates:(Abu Dhabi) || $emirates ==\"Abu Dhabi\"",
+      "dialog_node": "node_1_1586343783792",
+      "previous_sibling": "node_9_1586343297628"
+    },
+    {
+      "type": "frame",
+      "title": "In_Dubai",
+      "parent": "node_8_1586343086196",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_7_1586345979492"
+      },
+      "conditions": "@testing_location || @emirates:Dubai || $emirates==\"Dubai\"",
+      "dialog_node": "node_9_1586343297628",
+      "previous_sibling": "slot_7_1586344532997"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_8_1586343086196",
+      "variable": "$emirates",
+      "dialog_node": "slot_7_1586344532997"
+    },
+    {
+      "type": "slot",
+      "parent": "node_2_1584244958266",
+      "dialog_node": "slot_2_1584247191393"
+    },
+    {
+      "type": "standard",
+      "title": "Recommendation_Selected ",
+      "output": {},
+      "parent": "node_8_1586242247876",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@screening",
+      "dialog_node": "node_9_1586354110764"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We are open on @holiday regular hours"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": "@holiday",
+      "dialog_node": "node_5_1482426503106",
+      "previous_sibling": "node_1_1522387330204"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our hours on <? @sys-date.reformatDateTime(\"EEEEE\") ?> are 11am to 6pm."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": "@sys-date.reformatDateTime(\"EEEEE\") == \"Saturday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Sunday\"",
+      "dialog_node": "node_2_1482424204936",
+      "previous_sibling": "node_5_1482426503106"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We are open on <? @sys-date.reformatDateTime(\"EEEEE\") ?> from 10am until 8pm"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": "@sys-date.reformatDateTime(\"EEEEE\") == \"Monday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Tuesday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Wednesday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Thursday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Friday\"",
+      "dialog_node": "node_1_1522387330204",
+      "previous_sibling": "node_4_1482425833988"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We are available 24/7 to provide you with critical information to protect yourself during the COVID-19 crisis."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": " true",
+      "dialog_node": "node_6_1482426521282",
+      "previous_sibling": "node_2_1482424204936"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We are closed on @holiday"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": "@holiday:christmas || @holiday:thanksgiving || @holiday:(new years)",
+      "dialog_node": "node_4_1482425833988"
+    },
+    {
+      "type": "standard",
+      "title": "Recommendation_Selected",
+      "output": {},
+      "parent": "node_10_1586332221649",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@screening",
+      "dialog_node": "node_11_1586332221649"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For now, SEHA has drive through screening centers in Abu Dhabi, and more are opening soon starting with Festival City in Dubai.  You can check more about it here: https://bit.ly/2xXzv94"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "More:",
+            "options": [
+              {
+                "label": "Test Cost",
+                "value": {
+                  "input": {
+                    "text": "cost"
+                  }
+                }
+              },
+              {
+                "label": "Required Documents",
+                "value": {
+                  "input": {
+                    "text": "documents"
+                  }
+                }
+              },
+              {
+                "label": "Test Process",
+                "value": {
+                  "input": {
+                    "text": "process"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1586336385173",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_10_1586332221649"
+      },
+      "conditions": "@testing_location:(Drive Thru)",
+      "dialog_node": "response_5_1586336484970",
+      "previous_sibling": "response_2_1586336461270"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Check Abu Dhabi's Health Care Centers here: https://bit.ly/3b4EzHD"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "More:",
+            "options": [
+              {
+                "label": "Test Cost",
+                "value": {
+                  "input": {
+                    "text": "cost"
+                  }
+                }
+              },
+              {
+                "label": "Required Documents",
+                "value": {
+                  "input": {
+                    "text": "documents"
+                  }
+                }
+              },
+              {
+                "label": "Test Process",
+                "value": {
+                  "input": {
+                    "text": "process"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1586336385173",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_10_1586332221649"
+      },
+      "conditions": "@testing_location:(Health Care Centers)",
+      "dialog_node": "response_2_1586336461270"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_11_1586332221649",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1586217951857"
+      },
+      "conditions": "@screening:documents",
+      "dialog_node": "response_16_1586332221649",
+      "previous_sibling": "response_15_1586332221649"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_11_1586332221649",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1586245384020"
+      },
+      "conditions": "@screening:process",
+      "dialog_node": "response_17_1586332221649",
+      "previous_sibling": "response_16_1586332221649"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_11_1586332221649",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1586242247876"
+      },
+      "conditions": "@screening:(cost)",
+      "dialog_node": "response_15_1586332221649",
+      "previous_sibling": "slot_12_1586332221649"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_11_1586332221649",
+      "variable": "$",
+      "dialog_node": "slot_12_1586332221649"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Check DHA Primary Health Centers here: https://www.bayut.com/mybayut/corona-virus-test-dubai/  \nFor locations of hospitals check the map here: https://bit.ly/2XfZJyh\n<iframe src=\"https://www.google.com/maps/d/embed?mid=1qeixx8PTJ_L0AM-EmuU8ycUVM2JW3JVm\"width=\"640\" height=\"480\"></iframe>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_9_1586343297628",
+      "conditions": "@testing_location:(Health Care Centers)",
+      "dialog_node": "response_4_1586343642788",
+      "previous_sibling": "response_7_1586343404785"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Select location type",
+            "options": [
+              {
+                "label": "Drive Through",
+                "value": {
+                  "input": {
+                    "text": "Drive Through"
+                  }
+                }
+              },
+              {
+                "label": "Health Cares",
+                "value": {
+                  "input": {
+                    "text": "Health Care Center"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_9_1586343297628",
+      "conditions": "anything_else",
+      "dialog_node": "response_2_1586396048569",
+      "previous_sibling": "response_4_1586343642788"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For now, Festival City in Dubai just opened its first screening drive through center. More are coming soon.  You can check more about it here: \nhttps://bit.ly/2yJPIPI"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1586343297628",
+      "conditions": "@testing_location:(Drive Thru)",
+      "dialog_node": "response_7_1586343404785",
+      "previous_sibling": "slot_10_1586343405201"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_9_1586343297628",
+      "variable": "$testing_location",
+      "dialog_node": "slot_10_1586343405201"
+    },
+    {
+      "type": "slot",
+      "parent": "node_8_1584245667213",
+      "variable": "$state",
+      "dialog_node": "slot_2_1584351204054"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "According to  assessment, it appears that you may be at risk COVID-19, kindly provide the needed information and book an appointment for screening at one of UAE's screening hubs  OR  one of UAE's drive through centers."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1586213571308",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1586354973250"
+      },
+      "conditions": "@reply:no",
+      "dialog_node": "response_4_1586213689575",
+      "previous_sibling": "response_5_1586213616235"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "According to assessment, it appears that you may be at risk COVID-19, kindly book an appointment for screening at one of UAE's drive through centers. Make sure to bring along your required documents."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1586213571308",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1586354973250"
+      },
+      "conditions": "@reply:(yes)",
+      "dialog_node": "response_5_1586213616235"
+    },
+    {
+      "type": "standard",
+      "title": "Recommendation_Selected",
+      "output": {},
+      "parent": "node_2_1586346516037",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@screening",
+      "dialog_node": "node_1_1586347115000"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1586347115013",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1586347115014",
+      "previous_sibling": "handler_3_1586347115014"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1586347115013",
+      "context": {
+        "": "@"
+      },
+      "conditions": "@",
+      "event_name": "input",
+      "dialog_node": "handler_3_1586347115014"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Choose Emirate",
+            "options": [
+              {
+                "label": "Abu Dhabi",
+                "value": {
+                  "input": {
+                    "text": "Abu Dhabi"
+                  }
+                }
+              },
+              {
+                "label": "Dubai",
+                "value": {
+                  "input": {
+                    "text": "Dubai"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_7_1586344532997",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1586344533036",
+      "previous_sibling": "handler_7_1586344533036"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1586344532997",
+      "context": {
+        "emirates": "@emirates"
+      },
+      "conditions": "@emirates",
+      "event_name": "input",
+      "dialog_node": "handler_7_1586344533036"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "All shops are closed. Only supermarkets and pharmacies are open 24/7. Vet clinics and service providers (laundries, banks, food providers, etc...)as well are open. For more details check this link https://bit.ly/2JNTjhK."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1586256905038",
+      "conditions": "anything_else",
+      "dialog_node": "response_10_1586257857376",
+      "previous_sibling": "response_10_1586257669261"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Don't worry about your pet. As clinics are under essential services, they are still operating. For more info about pets check this link https://bit.ly/2UOnZFV."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1586256905038",
+      "conditions": "@shops:(vet clinic)",
+      "dialog_node": "response_10_1586257669261",
+      "previous_sibling": "response_2_1586257493945"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Supermarket and pharmacies are open 24/7."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1586256905038",
+      "conditions": "@shops:pharmacy",
+      "dialog_node": "response_2_1586257493945"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good afternoon",
+            "Hi there. It's a beautiful afternoon",
+            "Good afternoon. How can I help?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('12:00:00') && now().before('16:59:59')",
+      "dialog_node": "node_1_1495022305143",
+      "previous_sibling": "node_16_1488295517679"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good evening",
+            "Hi. Good evening",
+            "Hello. How can I help this evening?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('17:00:00')",
+      "dialog_node": "node_15_1488295465298",
+      "previous_sibling": "node_1_1495022305143"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello",
+            "Hi there",
+            "Hi. How can I help"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "dialog_node": "node_28_1522448362216",
+      "previous_sibling": "node_15_1488295465298"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good morning",
+            "It's a beautiful morning. Hello",
+            "Hi there. How can I help you this morning?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('04:00:00') && now().before('11:59:59')",
+      "dialog_node": "node_16_1488295517679"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Are you a self-pay patient?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1586211422099",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_6_1586213571308"
+      },
+      "conditions": "@reply:no",
+      "dialog_node": "response_7_1586211794143",
+      "previous_sibling": "response_5_1586211671710"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Do you have any chronic conditions? Any of the following or other? Immunocompromised, COPD, CKD, diabetes, hypertension, cardiovascular disease?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1586211422099",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_6_1586212610332"
+      },
+      "conditions": "@reply:yes",
+      "dialog_node": "response_5_1586211671710",
+      "previous_sibling": "node_6_1586213571308"
+    },
+    {
+      "type": "standard",
+      "title": "Self_Patient_Selected_Choice",
+      "parent": "node_3_1586211422099",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@reply",
+      "dialog_node": "node_6_1586213571308",
+      "previous_sibling": "node_6_1586212610332"
+    },
+    {
+      "type": "standard",
+      "title": "Chronic_Conditions_Selected_Choice",
+      "parent": "node_3_1586211422099",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@reply",
+      "dialog_node": "node_6_1586212610332"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "This is mandatory info, please check and let us know if you traveled"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_5_1586203954089",
+      "next_step": {
+        "behavior": "reprompt"
+      },
+      "conditions": "@not_sure",
+      "event_name": "filled",
+      "dialog_node": "handler_9_1586682974469",
+      "previous_sibling": "handler_7_1586203954110"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Have you recently traveled in the past 14 days?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_5_1586203954089",
+      "context": {
+        "reply": null
+      },
+      "event_name": "focus",
+      "dialog_node": "handler_7_1586203954110",
+      "previous_sibling": "handler_5_1586203954110"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1586203954089",
+      "context": {
+        "reply": "@reply"
+      },
+      "conditions": "@reply",
+      "event_name": "input",
+      "dialog_node": "handler_5_1586203954110"
+    },
+    {
+      "type": "slot",
+      "parent": "node_5_1584379302984",
+      "variable": "$school_type",
+      "dialog_node": "slot_9_1584379363794",
+      "previous_sibling": "response_6_1586413745546"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "All schools, colleges and universities are closed until a further notice. To make sure education is still going all class sessions have been moved online. For more info check this link https://bit.ly/39Tuuvx"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1584379302984",
+      "disabled": true,
+      "dialog_node": "response_6_1586413745546",
+      "previous_sibling": "response_6_1584379721598"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "All schools below the college/university level in zip code $zip_code will remain closed until further notice."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1584379302984",
+      "disabled": true,
+      "conditions": "anything_else",
+      "dialog_node": "response_6_1584379721598",
+      "previous_sibling": "response_8_1584379501537"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Colleges and universities in zip code $zip_code have moved their classes online. Please contact your school for further details."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1584379302984",
+      "disabled": true,
+      "conditions": "$school_type == 'college'",
+      "dialog_node": "response_8_1584379501537"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Do you have shortness of breath?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_6_1586212610332",
+      "conditions": "@reply",
+      "dialog_node": "response_1_1586212636212",
+      "previous_sibling": "node_4_1586213017328"
+    },
+    {
+      "type": "standard",
+      "title": "Breath_Selected_Choice",
+      "parent": "node_6_1586212610332",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@reply",
+      "dialog_node": "node_4_1586213017328"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1586354110781",
+      "event_name": "focus",
+      "dialog_node": "handler_12_1586354110781",
+      "previous_sibling": "handler_11_1586354110781"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1586354110781",
+      "context": {
+        "": "@"
+      },
+      "conditions": "@",
+      "event_name": "input",
+      "dialog_node": "handler_11_1586354110781"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Do you have any of  the following symptoms: Fever, Cough, ILI symptoms, chills, body, body aches, sore throat, headache, diarrhea, naus ea/vomiting, and runny nose?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1586209533589",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_3_1586211422099"
+      },
+      "conditions": "@reply:yes",
+      "dialog_node": "response_3_1586209993888",
+      "previous_sibling": "slot_3_1586210220205"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Do you currently live in a shared accommodation?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1586209533589",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_6_1586211103837"
+      },
+      "conditions": "@reply:no",
+      "dialog_node": "response_9_1586210370195",
+      "previous_sibling": "response_3_1586209993888"
+    },
+    {
+      "type": "standard",
+      "title": "Symptoms_selected_choice",
+      "parent": "node_1_1586209533589",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@reply",
+      "dialog_node": "node_3_1586211422099",
+      "previous_sibling": "node_6_1586211103837"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1586209533589",
+      "dialog_node": "slot_3_1586210220205",
+      "previous_sibling": "node_3_1586211422099"
+    },
+    {
+      "type": "standard",
+      "title": "Shared_Accomodation_Selected_Choice",
+      "parent": "node_1_1586209533589",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@reply",
+      "dialog_node": "node_6_1586211103837"
+    },
+    {
+      "type": "standard",
+      "title": "Travel Recommendations",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Airports in UAE will close down from March 26 as per preventive measures by UAE authorities to contain the spread of coronavirus, Covid-19. For more information check this link: https://bit.ly/2Xsu4JX"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Travel_Restrictions",
+      "dialog_node": "node_5_1585644004979",
+      "previous_sibling": "node_4_1585585928538"
+    },
+    {
+      "type": "standard",
+      "title": "keep going",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Anything other COVID-19 information that you are seeking?"
+              },
+              {
+                "text": "What other COVID-19 information can I provide?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Here are some things:",
+            "options": [
+              {
+                "label": "Get CDC Information",
+                "value": {
+                  "input": {
+                    "text": "cdc_link"
+                  }
+                }
+              },
+              {
+                "label": "Get Local News Updates",
+                "value": {
+                  "input": {
+                    "text": "local_updates"
+                  }
+                }
+              },
+              {
+                "label": "Local Screening",
+                "value": {
+                  "input": {
+                    "text": "local_screening_info"
+                  }
+                }
+              },
+              {
+                "label": "Self Pre-screening",
+                "value": {
+                  "input": {
+                    "text": "prescreening"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "",
+      "digress_in": "returns",
+      "dialog_node": "node_2_1584244958266",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_2_1467831978407"
+    },
+    {
+      "type": "frame",
+      "title": "search web for testing center info",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "query": "   tables.body_cells.cell_text:\"$state\"",
+            "filter": "extracted_metadata.title:\"Phone Numbers for State and Local Health Departments\"",
+            "query_type": "natural_language",
+            "response_type": "search_skill"
+          }
+        ]
+      },
+      "conditions": "#Test_Center_Contact_Info",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1584245667213",
+      "previous_sibling": "node_5_1586332235457"
+    },
+    {
+      "type": "standard",
+      "title": "Live Stats - Number of Cases",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "country": "@sys-location"
+          },
+          "result_variable": "webhook_result_3"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#nbr_cases",
+      "dialog_node": "node_4_1585585928538",
+      "previous_sibling": "node_7_1584122886005"
+    },
+    {
+      "type": "folder",
+      "title": "COVID Information ",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_7_1584122886005",
+      "previous_sibling": "Opening"
+    },
+    {
+      "type": "standard",
+      "title": "What are your hours?",
+      "output": {},
+      "metadata": {},
+      "conditions": "#Customer_Care_Store_Hours",
+      "digress_in": "does_not_return",
+      "dialog_node": "Hours of Operation",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_5_1585644004979"
+    },
+    {
+      "type": "standard",
+      "title": "Search skill",
+      "output": {
+        "generic": [
+          {
+            "query": "",
+            "filter": "",
+            "query_type": "natural_language",
+            "response_type": "search_skill"
+          }
+        ]
+      },
+      "conditions": "",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1585586292664",
+      "previous_sibling": "node_4_1570050459690"
+    },
+    {
+      "type": "standard",
+      "title": "What can I do",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can show you local news updates about the COVID-19 virus and I can link you to the latest information from the CDC about the pandemic."
+              },
+              {
+                "text": "You could also ask me to connect you to an agent."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Help",
+      "dialog_node": "node_4_1570050459690",
+      "previous_sibling": "node_22_1467833484410"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Let me look through the information that I have..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "query": "",
+            "filter": "",
+            "query_type": "natural_language",
+            "response_type": "search_skill"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "digress_in": "returns",
+      "dialog_node": "node_2_1467831978407",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_9_1585586292664",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "frame",
+      "title": "Locations_Screenings (Backup)",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#screening_locations",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1586332235457",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_2_1584244958266",
+      "digress_out_slots": "allow_all"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "metadata": {},
+      "conditions": "#General_Greetings",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_13_1502484041694",
+      "previous_sibling": "Hours of Operation"
+    },
+    {
+      "type": "standard",
+      "title": "Please transfer me to an agent",
+      "output": {
+        "text": {
+          "values": [
+            "Would you like me to transfer you to a representative?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#General_Connect_to_Agent",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_22_1467833484410",
+      "digress_out": "allow_all_never_return",
+      "previous_sibling": "node_2_1468243505617"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "So long",
+            "See ya",
+            "Good bye"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Goodbye",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_12_1468329566917",
+      "previous_sibling": "node_13_1502484041694"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "You're welcome. Just let me know if you need anything else",
+            "No problem. Just let me know if you need anything else",
+            "My pleasure. Just let me know if you need anything else"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Thanks",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1468243505617",
+      "previous_sibling": "node_12_1468329566917"
+    },
+    {
+      "type": "standard",
+      "title": "Opening",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, I’m the COVID Assistant ready to answer your questions about COVID-19 in UAE with up-to-the-minute information. How can I help you?"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "You can ask about:",
+            "options": [
+              {
+                "label": "Number of Cases",
+                "value": {
+                  "input": {
+                    "text": "number of cases"
+                  }
+                }
+              },
+              {
+                "label": "Open shops",
+                "value": {
+                  "input": {
+                    "text": "Which shops are open?"
+                  }
+                }
+              },
+              {
+                "label": "Testing / Screening Centers",
+                "value": {
+                  "input": {
+                    "text": "local_screening_info"
+                  }
+                }
+              },
+              {
+                "label": "Self-screening ",
+                "value": {
+                  "input": {
+                    "text": "Prescreening "
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "context": {
+        "no_reservation": true
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "digress_in": "does_not_return",
+      "dialog_node": "Opening"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "in 3 days"
+    },
+    {
+      "text": "is there a test kit for the coronavirus"
+    },
+    {
+      "text": "what are my options?"
+    },
+    {
+      "text": "where in the USA is coronavirus"
+    },
+    {
+      "text": "where is COVID-19 in Texas"
+    },
+    {
+      "text": "who is the head of this"
+    },
+    {
+      "text": "will airports remain open"
+    }
+  ],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    },
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above."
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "COVID Bot Skill",
+  "language": "en",
+  "description": "Chat bot that delivers important information about COVID-19 virus outbreak."
+}
